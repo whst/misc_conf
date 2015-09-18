@@ -213,7 +213,7 @@ plugin=battery
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][13][PopupApplet]
-DialogHeight=268
+DialogHeight=288
 DialogWidth=296
 
 [Containments][1][Applets][6][Configuration][Applets][8]

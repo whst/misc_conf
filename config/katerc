@@ -4,10 +4,10 @@ update_info=kate-2.4.upd:kate2.4
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=Markdown
+Highlighting=None
 Indentation Mode=normal
-Mode=Markdown
-URL=file:///home/wang/.vim/README.md
+Mode=
+URL=file:///home/wang/.bash_aliases
 
 [Document 1]
 Bookmarks=
@@ -258,9 +258,9 @@ WindowState=10
 Sizes=1135
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/wang/.vim/README.md
+Active View=file:///home/wang/.bash_aliases
 Count=1
-View 0=file:///home/wang/.vim/README.md
+View 0=file:///home/wang/.bash_aliases
 View 1=file:///home/wang/Documents/code/c/ichttpd/ichttpd.c
 View 2=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/generate_list.py
 View 3=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py
@@ -269,6 +269,12 @@ View 5=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py
 View 6=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/to_human_time.py
 View 7=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/wishmodel.py
 View 8=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/yate.py
+
+[MainWindow0-ViewSpace 0 file:///home/wang/.bash_aliases]
+CursorColumn=0
+CursorLine=9
+JumpList=
+ViMarks=
 
 [MainWindow0-ViewSpace 0 file:///home/wang/.config/fcitx/config]
 CursorColumn=0
@@ -579,26 +585,26 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/generate_list.py
-File10[$e]=$HOME/.vim/README.md
-File2[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py
-File3[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/to_human_time.py
-File4[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/wishmodel.py
-File5[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/yate.py
-File6[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/new_wish.py
-File7[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py
-File8[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.h
-File9[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.c
-Name1[$e]=generate_list.py
-Name10[$e]=README.md
-Name2[$e]=get_db_path.py
-Name3[$e]=to_human_time.py
-Name4[$e]=wishmodel.py
-Name5[$e]=yate.py
-Name6[$e]=new_wish.py
-Name7[$e]=thumb_up.py
-Name8[$e]=ichttpd.h
-Name9[$e]=ichttpd.c
+File1[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py
+File10[$e]=$HOME/.bash_aliases
+File2[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/to_human_time.py
+File3[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/wishmodel.py
+File4[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/yate.py
+File5[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/new_wish.py
+File6[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py
+File7[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.h
+File8[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.c
+File9[$e]=$HOME/.vim/README.md
+Name1[$e]=get_db_path.py
+Name10[$e]=.bash_aliases
+Name2[$e]=to_human_time.py
+Name3[$e]=wishmodel.py
+Name4[$e]=yate.py
+Name5[$e]=new_wish.py
+Name6[$e]=thumb_up.py
+Name7[$e]=ichttpd.h
+Name8[$e]=ichttpd.c
+Name9[$e]=README.md
 
 [TipOfDay]
 RunOnStart=false

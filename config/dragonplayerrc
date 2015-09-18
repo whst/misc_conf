@@ -1,5 +1,5 @@
 [General]
-Recent Urls[$e]=file:///media/wang/TOSHIBA/_my_doc_/movie/阿飞正传.rmvb,file://$HOME/Videos/f6.mp4,file://$HOME/Videos/a6.mp4,file://$HOME/Videos/720P_1500K_52084701.mp4,file:///media/wang/TOSHIBA/_my_doc_/movie/这个男人来自地球.rmvb,file:///media/wang/TOSHIBA/_my_doc_/TV/海滩天使-仓科加奈.mkv,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/(h.m.p)波多野结衣 - 限界!羞耻! 无限度虐 骐泣 失禁 DivX+nike(HODV20557).avi,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/ohrly-ma1225lcd.mp4,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/289_rei_02_hd.wmv,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/289_rei_03-01_hd.wmv,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/289_rei_03-02_hd.wmv,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/289_rei_03-03_hd.wmv,file:///media/wang/WHST/Iptd-598.avi,file:///media/wang/WHST/哆啦A梦大雄的宇宙英雄记.mkv,file:///media/wang/TOSHIBA/_my_doc_/TV/生活大爆炸 第八季/S08E17.mp4
+Recent Urls[$e]=file:///media/wang/TOSHIBA/_my_doc_/movie/阿飞正传.rmvb,file://$HOME/Videos/f6.mp4,file://$HOME/Videos/a6.mp4,file://$HOME/Videos/720P_1500K_52084701.mp4,file:///media/wang/TOSHIBA/_my_doc_/movie/这个男人来自地球.rmvb,file:///media/wang/TOSHIBA/_my_doc_/TV/海滩天使-仓科加奈.mkv,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/(h.m.p)波多野结衣 - 限界!羞耻! 无限度虐 骐泣 失禁 DivX+nike(HODV20557).avi,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/ohrly-ma1225lcd.mp4,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/289_rei_02_hd.wmv,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/289_rei_03-01_hd.wmv,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/289_rei_03-02_hd.wmv,file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/289_rei_03-03_hd.wmv,file:///media/wang/WHST/Iptd-598.avi,file:///media/wang/WHST/哆啦A梦大雄的宇宙英雄记.mkv,file:///media/wang/TOSHIBA/_my_doc_/TV/生活大爆炸 第八季/S08E17.mp4,file:///media/wang/TOSHIBA/_my_doc_/TV/生活大爆炸 第八季/S08E18.mp4
 TimeFormat=1
 Volume=0.22
 
@@ -120,6 +120,17 @@ Contrast=0
 Date=05/09/2015
 Hue=0
 IsVideo=false
+Preferred Size=1366,646
+Saturation=0
+
+[file:///media/wang/TOSHIBA/_my_doc_/TV/生活大爆炸 第八季/S08E18.mp4]
+AudioChannel=1
+Brightness=0
+Contrast=0
+Date=18/09/2015
+Hue=0
+IsVideo=true
+Position=12793
 Preferred Size=1366,646
 Saturation=0
 

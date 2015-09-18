@@ -93,6 +93,8 @@ alias rm='rm -i'; alias mv='mv -i'; alias cp='cp -i'
 alias chm='chmod'
 alias df='df -h'
 alias tch='touch'
+alias gcc='gcc -fdiagnostics-color=auto'
+alias g++='g++ -fdiagnostics-color=auto'
 
 alias py='python';	alias py3='python3'
 alias bpy='bpython';	alias bpy3='bpython3'

@@ -11,10 +11,10 @@ DefaultProfile=Giant.profile
 Favorites=Giant.profile,My default.profile
 
 [MainWindow]
-Height 768=467
-State=AAAA/wAAAAD9AAAAAAAAA4oAAAG9AAAABAAAAAQAAAAIAAAACPwAAAAA
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK7AAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1366=906
+Width 1366=1367
 
 [TabBar]
 ShowQuickButtons=true
