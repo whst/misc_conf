@@ -1,0 +1,30 @@
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/shot/2014-07-30 06_41_54 _______________.png
+File10[$e]=$HOME/Pictures/siro/GR5.jpg
+File2[$e]=$HOME/Pictures/shot/2014-07-30 06_41_22 _______________.png
+File3[$e]=camera:/USB%2520PTP%2520Class%2520Camera@usb:002,006/store_00010001/Pictures/16455fbb655a2816.jpg
+File4[$e]=camera:/USB%2520PTP%2520Class%2520Camera@usb:002,006/store_00010001/Pictures/Moe/459c12102ac24b938e0c05f7a98451ef.jpg
+File5[$e]=$HOME/Downloads/ROC_Sino_Jap_war.jpeg
+File6[$e]=$HOME/Pictures/siro/wall.jpg
+File7[$e]=$HOME/Pictures/siro/GR6.jpg
+File8[$e]=$HOME/Pictures/siro/GR3.jpg
+File9[$e]=$HOME/Pictures/siro/GR4.jpg
+Name1[$e]=2014-07-30 06_41_54 _______________.png
+Name10[$e]=GR5.jpg
+Name2[$e]=2014-07-30 06_41_22 _______________.png
+Name3[$e]=16455fbb655a2816.jpg
+Name4[$e]=459c12102ac24b938e0c05f7a98451ef.jpg
+Name5[$e]=ROC_Sino_Jap_war.jpeg
+Name6[$e]=wall.jpg
+Name7[$e]=GR6.jpg
+Name8[$e]=GR3.jpg
+Name9[$e]=GR4.jpg
+
+[SideBar-ViewMode]
+IsVisible=true

@@ -1,0 +1,16 @@
+[GENERAL]
+delay=1
+filename[$e]=file://$HOME/Pictures/shot/%E7%BA%A6%E7%91%9F%E5%A4%AB1.png
+includeDecorations=true
+includePointer=false
+mode=1
+
+[KFileDialog Settings]
+Height 768=420
+Recent Files[$e]=$HOME/Pictures/shot/git.png,$HOME/Pictures/shot/约瑟夫.png
+Recent URLs[$e]=$HOME/Pictures/,$HOME/Pictures/shot/
+Width 1366=683
+
+[MainWindow]
+Height 768=499
+Width 1366=436

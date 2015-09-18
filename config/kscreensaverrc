@@ -1,0 +1,11 @@
+[ScreenSaver]
+ActionBottomLeft=0
+ActionBottomRight=0
+ActionTopLeft=0
+ActionTopRight=0
+Enabled=false
+LegacySaverEnabled=false
+Lock=false
+LockGrace=60000
+PlasmaEnabled=false
+Timeout=60

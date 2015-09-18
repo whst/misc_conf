@@ -1,0 +1,612 @@
+[$Version]
+update_info=kate-2.4.upd:kate2.4
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Markdown
+Indentation Mode=normal
+Mode=Markdown
+URL=file:///home/wang/.vim/README.md
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///home/wang/Documents/code/c/ichttpd/ichttpd.h
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+URL=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/generate_list.py
+
+[Document 3]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+URL=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py
+
+[Document 4]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+URL=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/new_wish.py
+
+[Document 5]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+URL=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py
+
+[Document 6]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+URL=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/to_human_time.py
+
+[Document 7]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+URL=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/wishmodel.py
+
+[Document 8]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+URL=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/yate.py
+
+[General]
+Days Meta Infos=30
+Last Session=
+Modified Notification=false
+Restore Window Configuration=true
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Startup Session=manual
+
+[KFileDialog Settings]
+Height 768=420
+Recent Files[$e]=$HOME/Downloads/hosts,$HOME/Downloads/hosts
+Recent URLs[$e]=$HOME/Downloads/
+Width 1366=683
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+BOM=false
+Backup Flags=0
+Backup Prefix=
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=false
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=2
+Keep Extra Spaces=false
+Line Length Limit=4096
+Newline At EOF=false
+No sync=false
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=false
+Search Dir Config Depth=9
+Show Spaces=false
+Show Tabs=true
+Smart Home=true
+Tab Handling=2
+Tab Width=8
+Word Wrap=false
+Word Wrap Column=80
+
+[Kate Part Defaults]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[Kate Plugins]
+kate_kttsd=false
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=true
+katectagsplugin=false
+katefilebrowserplugin=false
+katefiletemplates=false
+katefiletreeplugin=true
+kategdbplugin=false
+katekonsoleplugin=false
+katemailfilesplugin=false
+kateopenheaderplugin=false
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katetabbarextensionplugin=false
+katetabifyplugin=false
+katetextfilterplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+
+[Kate Renderer Defaults]
+Animate Bracket Matching=false
+Schema=Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[Kate Vi Input Mode Settings]
+Command Mode Mapping Keys=
+Command Mode Mappings=
+Command Mode Mappings Recursion=
+Insert Mode Mapping Keys=
+Insert Mode Mappings=
+Insert Mode Mappings Recursion=
+Macro Completions=
+Macro Contents=
+Macro Registers=
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+Normal Mode Mappings Recursion=
+Visual Mode Mapping Keys=
+Visual Mode Mappings=
+Visual Mode Mappings Recursion=
+
+[Kate View Defaults]
+Allow Mark Menu=true
+Auto Center Lines=0
+Auto Completion=true
+Bookmark Menu Sorting=0
+Default Mark Type=1
+Dynamic Word Wrap=false
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap Indicators=1
+Fold First Line=false
+Folding Bar=true
+Icon Bar=false
+Keyword Completion=true
+Line Modification=false
+Line Numbers=false
+Maximum Search History Size=100
+Persistent Selection=false
+Replacement Text History=66.102.12.104|66.102.12.107|66.102.12.119|64.233.162.83|66.102.12.127|66.102.12.126|64.233.191.239|66.102.12.109|64.233.162.87|66.102.12.102|66.102.12.112|66.102.12.122|66.102.12.121|66.102.12.108|64.233.162.84|66.102.12.105|66.102.12.36|66.102.12.26|66.102.12.10|66.102.12.101|64.233.162.82|66.102.12.125|66.102.12.5|66.102.12.39|66.102.12.9|66.102.12.50|66.102.12.24|66.102.12.115|66.102.12.114|66.102.12.1|64.233.162.86|66.102.12.31|66.102.12.59|66.102.12.23|66.102.12.118|66.102.12.3
+Scroll Bar Marks=false
+Scroll Bar Mini Map=false
+Scroll Bar Mini Map All=false
+Scroll Bar Mini Map Width=60
+Scroll Past End=false
+Search Pattern History=read_req_he,get,open,cgi,getc,putc,make,66.102.12.36|66.102.12.26|66.102.12.10|66.102.12.101|64.233.162.82|66.102.12.125|66.102.12.5|66.102.12.39|66.102.12.9|66.102.12.50|66.102.12.24|66.102.12.115|66.102.12.114|66.102.12.1|64.233.162.86|66.102.12.31|66.102.12.59|66.102.12.23|66.102.12.118|66.102.12.3
+Search/Replace Flags=140
+Show Scrollbars=0
+Smart Copy Cut=false
+Vi Input Mode=false
+Vi Input Mode Emulate Command Bar=false
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[MainWindow0]
+Characters Count Visible=false
+Cursor Position Visible=true
+Document Name Visible=true
+Encoding Visible=true
+Height 768=769
+Insertion Mode Visible=true
+Kate-MDI-H-Splitter=200,1135,200
+Kate-MDI-Sidebar-0-Splitter=669,0
+Kate-MDI-Sidebar-3-Splitter=0,0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=0
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=true
+Kate-MDI-ToolView-kateproject-Persistent=false
+Kate-MDI-ToolView-kateproject-Position=0
+Kate-MDI-ToolView-kateproject-Sidebar-Position=1
+Kate-MDI-ToolView-kateproject-Visible=false
+Kate-MDI-ToolView-kateprojectinfo-Persistent=false
+Kate-MDI-ToolView-kateprojectinfo-Position=3
+Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
+Kate-MDI-ToolView-kateprojectinfo-Visible=false
+Kate-MDI-V-Splitter=150,643,200
+Selection Mode Visible=true
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1366=1367
+
+[MainWindow0 Settings]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1366=1367
+WindowState=10
+
+[MainWindow0-Splitter 0]
+Sizes=1135
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/wang/.vim/README.md
+Count=1
+View 0=file:///home/wang/.vim/README.md
+View 1=file:///home/wang/Documents/code/c/ichttpd/ichttpd.c
+View 2=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/generate_list.py
+View 3=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py
+View 4=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/new_wish.py
+View 5=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py
+View 6=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/to_human_time.py
+View 7=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/wishmodel.py
+View 8=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/yate.py
+
+[MainWindow0-ViewSpace 0 file:///home/wang/.config/fcitx/config]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/.vim/README.md]
+CursorColumn=0
+CursorLine=52
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/.vim/bundle/VimIM/plugin/vimim.cjk.txt]
+CursorColumn=19
+CursorLine=7932
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/goagent-gtk.desktop]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/bin/clion-1.1/Install-Linux-tar.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/bin/goagent-v3.2.0/local/proxy.ini]
+CursorColumn=449
+CursorLine=32
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/algorithm/ac/ac.c]
+CursorColumn=1
+CursorLine=79
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/algorithm/ac/main.cpp]
+CursorColumn=1
+CursorLine=234
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd.c]
+CursorColumn=1
+CursorLine=434
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/ichttpd.c]
+CursorColumn=52
+CursorLine=128
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/ichttpd.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/main.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/utils.c]
+CursorColumn=0
+CursorLine=6
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/change_wish_data.py]
+CursorColumn=16
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/create_wish_tables.py]
+CursorColumn=5
+CursorLine=7
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/generate_list.py]
+CursorColumn=15
+CursorLine=5
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py]
+CursorColumn=20
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/new_wish.py]
+CursorColumn=35
+CursorLine=14
+JumpList=
+ViMarks=.,14,10,[,14,10,],14,34
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py]
+CursorColumn=35
+CursorLine=13
+JumpList=
+ViMarks=.,13,10,[,13,10,],13,34
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/to_human_time.py]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/wishmodel.py]
+CursorColumn=31
+CursorLine=12
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/yate.py]
+CursorColumn=14
+CursorLine=10
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/temp/duff/main.c]
+CursorColumn=0
+CursorLine=3
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/temp/duff/memcpy.c]
+CursorColumn=0
+CursorLine=34
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/temp/regex/main.c]
+CursorColumn=18
+CursorLine=2
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/gtk+/easy_gtk+/main.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/collect/20个Linux命令.html]
+CursorColumn=0
+CursorLine=165
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/tex/ttp.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/tools/goagent-v3.2.0/local/addto-startup.py]
+CursorColumn=0
+CursorLine=22
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/tools/goagent-v3.2.0/local/goagent-gtk.py]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/ACKMP/Matcher.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/cvim/c-support/codesnippets/calloc_double_matrix.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/cvim/c-support/codesnippets/calloc_int_matrix.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/cvim/c-support/templates/c.comments.template]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/cvim/plugin/c.vim]
+CursorColumn=9
+CursorLine=1406
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/hosts]
+CursorColumn=11
+CursorLine=10937
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/hosts-包含ipv4和ipv6]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/idea-IC-141.1532.4/Install-Linux-tar.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/idea-IC-141.1532.4/NOTICE.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/idea-IC-141.1532.4/bin/idea.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/redshift-1.10/HACKING]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/redshift-1.10/README]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/「fcitx－搜狗」合并词库（2012-06-17）/词库清单.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/m%1B%1B%1B%1B%1B%1B]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/diary/2013-08/2013-08-24.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/TOSHIBA/_my_doc_/temp.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 trash:/0-hosts]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katecloseexceptplugin:menu]
+ShowConfirmation=true
+
+[Plugin:katesearchplugin:MainWindow:0:search-plugin]
+BinaryFiles=false
+CurrentExcludeFilter=0
+CurrentFilter=0
+ExcludeFilters=\\0
+ExpandSearchResults=false
+Filters=\\0
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=1
+Recursive=true
+Search=volatile
+SearchDiskFiles=
+SearchDiskFiless=
+UseRegExp=false
+
+[Recent Files]
+File1[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/generate_list.py
+File10[$e]=$HOME/.vim/README.md
+File2[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py
+File3[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/to_human_time.py
+File4[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/wishmodel.py
+File5[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/yate.py
+File6[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/new_wish.py
+File7[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py
+File8[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.h
+File9[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.c
+Name1[$e]=generate_list.py
+Name10[$e]=README.md
+Name2[$e]=get_db_path.py
+Name3[$e]=to_human_time.py
+Name4[$e]=wishmodel.py
+Name5[$e]=yate.py
+Name6[$e]=new_wish.py
+Name7[$e]=thumb_up.py
+Name8[$e]=ichttpd.h
+Name9[$e]=ichttpd.c
+
+[TipOfDay]
+RunOnStart=false
+
+[filetree]
+editShade=210,181,216
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=185,178,206

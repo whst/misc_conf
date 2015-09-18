@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=https://self-serv.whu.edu.cn:8443/selfservice/,https://whu-sb.whu.edu.cn:8443/selfservice/,http://qzone.qq.com
+ComboIconCache[$e]=https://self-serv.whu.edu.cn:8443/selfservice/,text-html,https://whu-sb.whu.edu.cn:8443/selfservice/,text-html,http://qzone.qq.com,text-html

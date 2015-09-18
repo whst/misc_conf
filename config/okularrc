@@ -1,0 +1,36 @@
+[Desktop Entry]
+FullScreen=false
+
+[KFileDialog Settings]
+Height 768=420
+Recent Files[$e]=龙书.pdf,$HOME/Documents/pdf/编译原理/龙书.pdf,$HOME/Documents/pdf/编译原理/中文无目录.pdf
+Recent URLs[$e]=$HOME/Documents/pdf/编译原理/
+Width 1366=683
+
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[Recent Files]
+File1[$e]=/media/wang/DATA/doc/pdf/编译原理/龙书-cn.pdf
+File10[$e]=$HOME/Documents/code/cpp/assignment/n1256.pdf
+File2[$e]=/media/wang/DATA/doc/pdf/编译原理/答案汇总.pdf
+File3[$e]=/media/wang/DATA/doc/pdf/编译原理/不完整/a3.pdf
+File4[$e]=/media/wang/DATA/download/C#4.0图解教程.pdf
+File5[$e]=/media/wang/DATA/download/Java核心技术.pdf
+File6[$e]=/media/wang/DATA/download/college_lessons/西尔斯当代大学物理-12版(上).pdf
+File7[$e]=/media/wang/DATA/download/college_lessons/University Physics 12th Edition.pdf
+File8[$e]=/media/wang/DATA/download/college_lessons/University Physics [Solutions].pdf
+File9[$e]=$HOME/Documents/pdf/编译原理/龙书-英文无目录.pdf
+Name1[$e]=龙书-cn.pdf
+Name10[$e]=n1256.pdf
+Name2[$e]=答案汇总.pdf
+Name3[$e]=a3.pdf
+Name4[$e]=C#4.0图解教程.pdf
+Name5[$e]=Java核心技术.pdf
+Name6[$e]=西尔斯当代大学物理-12版(上).pdf
+Name7[$e]=University Physics 12th Edition.pdf
+Name8[$e]=University Physics [Solutions].pdf
+Name9[$e]=龙书-英文无目录.pdf
