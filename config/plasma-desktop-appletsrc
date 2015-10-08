@@ -213,7 +213,7 @@ plugin=battery
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][13][PopupApplet]
-DialogHeight=288
+DialogHeight=162
 DialogWidth=296
 
 [Containments][1][Applets][6][Configuration][Applets][8]
@@ -285,7 +285,7 @@ mimeFilter=
 numTextLines=2
 plugin=folderview
 savedPositions=1,9,qtcreator.desktop,124,220,eclipse.desktop,10,325,libreoffice-startcenter.desktop,124,10,Home.desktop,10,10,算法精解：C语言描述.azw,10,220,gvim.desktop,10,535,gimp.desktop,10,430,trash.desktop,10,115,okular.desktop,124,115
-screen=0
+screen=-1
 showPreviews=true
 sortColumn=-1
 sortDirsFirst=true
@@ -319,7 +319,7 @@ lastDesktop=-1
 lastScreen=0
 location=0
 plugin=desktop
-screen=-1
+screen=0
 wallpaperplugin=image
 wallpaperpluginmode=Slideshow
 zvalue=0

@@ -21,7 +21,7 @@ performed=/usr/share/kde4/apps/plasma-desktop/updates/set-hidden-single-vd-pager
 
 [ViewIds]
 1=1
-19=2
+8=2
 
 [invokeAction]
 __file=

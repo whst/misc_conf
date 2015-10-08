@@ -1,3 +1,7 @@
+[KFileDialog Settings]
+Height 768=420
+Width 1366=683
+
 [LyricsWidget]
 Show=true
 
@@ -7,6 +11,9 @@ ToolBarsMovable=Disabled
 
 [MainWindow][Toolbar playToolBar]
 ToolButtonStyle=IconOnly
+
+[Notification Messages]
+hideOnCloseInfo=false
 
 [PlaylistBox]
 ViewMode=0
@@ -18,7 +25,7 @@ ResizeColumnsManually=false
 VisibleColumns=1,1,1,1,1,1,1,1,0,0,0,0
 
 [Playlists]
-DirectoryList[$e]=
+DirectoryList[$e]=$HOME/Music,/media/wang/DATA/music
 ExcludeDirectoryList[$e]=
 ImportPlaylists=true
 showUpcoming=false

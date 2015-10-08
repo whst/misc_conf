@@ -10,3 +10,6 @@ SplitterSizes=182,1117
 
 [PageView]
 MouseMode=TextSelect
+
+[Search]
+SearchCaseSensitive=true

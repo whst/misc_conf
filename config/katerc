@@ -4,18 +4,18 @@ update_info=kate-2.4.upd:kate2.4
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=None
-Indentation Mode=normal
-Mode=
-URL=file:///home/wang/.bash_aliases
+Highlighting=C
+Indentation Mode=cstyle
+Mode=C
+URL=file:///home/wang/Documents/code/cpp/dulculator/elelcalc.c
 
 [Document 1]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
-URL=file:///home/wang/Documents/code/c/ichttpd/ichttpd.h
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///media/wang/TOSHIBA/工作簿1.csv
 
 [Document 2]
 Bookmarks=
@@ -86,8 +86,8 @@ Startup Session=manual
 
 [KFileDialog Settings]
 Height 768=420
-Recent Files[$e]=$HOME/Downloads/hosts,$HOME/Downloads/hosts
-Recent URLs[$e]=$HOME/Downloads/
+Recent Files[$e]=成绩统计V0.2.py,$HOME/Documents/code/python/MarkCode/成绩统计V0.2.py
+Recent URLs[$e]=$HOME/Downloads/,$HOME/Documents/code/python/MarkCode/
 Width 1366=683
 
 [Kate Document Defaults]
@@ -258,10 +258,10 @@ WindowState=10
 Sizes=1135
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/wang/.bash_aliases
+Active View=file:///home/wang/Documents/code/cpp/dulculator/elelcalc.c
 Count=1
-View 0=file:///home/wang/.bash_aliases
-View 1=file:///home/wang/Documents/code/c/ichttpd/ichttpd.c
+View 0=file:///home/wang/Documents/code/cpp/dulculator/elelcalc.c
+View 1=file:///home/wang/Documents/code/python/textsheet/textsheet.py
 View 2=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/generate_list.py
 View 3=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py
 View 4=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/new_wish.py
@@ -420,15 +420,57 @@ CursorLine=34
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/temp/poly/README.md]
+CursorColumn=1
+CursorLine=101
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/temp/regex/main.c]
 CursorColumn=18
 CursorLine=2
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/dulculator/Makefile]
+CursorColumn=14
+CursorLine=7
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/dulculator/elelcalc.c]
+CursorColumn=0
+CursorLine=34
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/dulculator/main.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/gtk+/easy_gtk+/main.c]
 CursorColumn=0
 CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/python/MarkCode/gradeCalc.py]
+CursorColumn=62
+CursorLine=26
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/python/MarkCode/成绩统计V0.2.py]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/python/textsheet/textsheet.py]
+CursorColumn=18
+CursorLine=2
 JumpList=
 ViMarks=
 
@@ -552,6 +594,12 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///media/wang/TOSHIBA/工作簿1.csv]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 trash:/0-hosts]
 CursorColumn=0
 CursorLine=0
@@ -579,32 +627,32 @@ HiddenFiles=false
 MatchCase=false
 Place=1
 Recursive=true
-Search=volatile
+Search=—,volatile
 SearchDiskFiles=
 SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py
-File10[$e]=$HOME/.bash_aliases
-File2[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/to_human_time.py
-File3[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/wishmodel.py
-File4[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/yate.py
-File5[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/new_wish.py
-File6[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py
-File7[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.h
-File8[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.c
-File9[$e]=$HOME/.vim/README.md
-Name1[$e]=get_db_path.py
-Name10[$e]=.bash_aliases
-Name2[$e]=to_human_time.py
-Name3[$e]=wishmodel.py
-Name4[$e]=yate.py
-Name5[$e]=new_wish.py
-Name6[$e]=thumb_up.py
-Name7[$e]=ichttpd.h
-Name8[$e]=ichttpd.c
-Name9[$e]=README.md
+File1[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py
+File10[$e]=$HOME/Documents/code/cpp/dulculator/elelcalc.c
+File2[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.h
+File3[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.c
+File4[$e]=$HOME/.vim/README.md
+File5[$e]=$HOME/.bash_aliases
+File6[$e]=$HOME/Documents/code/c/temp/poly/README.md
+File7[$e]=$HOME/Documents/code/python/MarkCode/gradeCalc.py
+File8[$e]=/media/wang/TOSHIBA/工作簿1.csv
+File9[$e]=$HOME/Documents/code/python/textsheet/textsheet.py
+Name1[$e]=thumb_up.py
+Name10[$e]=elelcalc.c
+Name2[$e]=ichttpd.h
+Name3[$e]=ichttpd.c
+Name4[$e]=README.md
+Name5[$e]=.bash_aliases
+Name6[$e]=README.md
+Name7[$e]=gradeCalc.py
+Name8[$e]=工作簿1.csv
+Name9[$e]=textsheet.py
 
 [TipOfDay]
 RunOnStart=false

@@ -28,11 +28,12 @@ LastNameSeen=APPS
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda6]
+EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-harddisk
 LastNameSeen=DATA
-LastSeenMounted=false
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda7]
 EverMounted=true
@@ -86,8 +87,8 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
-LastNameSeen=EFI
-LastSeenMounted=false
+LastNameSeen=UUI
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
 EverMounted=true

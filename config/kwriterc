@@ -99,19 +99,29 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 768=601
+State=AAAA/wAAAAD9AAAAAAAAA4oAAAIQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=1367
+Width 1366=906
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/ACKMP/main.cpp
+File10[$e]=trash:/0-dulculator.cpp
 File2[$e]=$HOME/Downloads/ACKMP/Matcher.h
 File3[$e]=$HOME/Downloads/cvim/c-support/codesnippets/main.cc
 File4[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.h
 File5[$e]=$HOME/Documents/code/c/ichttpd/README.md
+File6[$e]=$HOME/Documents/bin/goagent-v3.2.0/local/proxy.ini
+File7[$e]=/media/wang/DATA/doc/code/成绩统计.cpp
+File8[$e]=/media/wang/DATA/doc/code/elelcalc/elelcalc/main.cpp
+File9[$e]=/media/wang/DATA/doc/code/qt/elelkalk/main.cpp
 Name1[$e]=main.cpp
+Name10[$e]=0-dulculator.cpp
 Name2[$e]=Matcher.h
 Name3[$e]=main.cc
 Name4[$e]=ichttpd.h
 Name5[$e]=README.md
+Name6[$e]=proxy.ini
+Name7[$e]=成绩统计.cpp
+Name8[$e]=main.cpp
+Name9[$e]=main.cpp
