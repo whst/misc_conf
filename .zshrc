@@ -1,13 +1,11 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/home/wang/.oh-my-zsh
+export ZSH=$HOME/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-#ZSH_THEME="random"
-ZSH_THEME="agnoster"
-#ZSH_THEME="robbyrussell"
+ZSH_THEME="robbyrussell"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -51,7 +49,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(zsh-syntax-highlighting zsh-autosuggestions git sudo ls autojump colored-man colorize extract)
+plugins=(zsh-syntax-highlighting zsh-autosuggestions git sudo ls autojump colored-man-pages colorize extract)
 
 # User configuration
 
@@ -164,13 +162,9 @@ hash -d VIDEO='/media/wang/DATA/video'
 hash -d CODE='/home/wang/Documents/code'
 hash -d DIARY='/media/wang/DATA/doc/diary'
 hash -d DOWNLOAD='/media/wang/DATA/download'
-hash -d ASSIGNMENT='/media/wang/DATA/doc/assignment'
 hash -d TEMPLATE='/home/wang/Templates'
 
-#自定义脚本
-#source "$HOME/Documents/tools/autoexec/autoexec.sh"
-
-#Java
+# Java Var
 export JAVA_HOME=/usr/lib/jvm/java-8-oracle
 export PATH=$JAVA_HOME/bin:$PATH
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
@@ -179,7 +173,6 @@ export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 zle-line-init() {
     zle autosuggest-start
 }
-
 zle -N zle-line-init
 
 # use ctrl+t to toggle autosuggestions (hopefully this wont be needed as
