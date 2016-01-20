@@ -4,42 +4,42 @@ update_info=kate-2.4.upd:kate2.4
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=C
-Indentation Mode=cstyle
-Mode=C
-URL=file:///home/wang/Documents/code/cpp/dulculator/elelcalc.c
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///media/wang/DATA/music/Teresa/ミッドナイト.レクイエム.lrc
 
 [Document 1]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=None
+Highlighting=Java
 Indentation Mode=normal
-Mode=
-URL=file:///media/wang/TOSHIBA/工作簿1.csv
+Mode=Java
+URL=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/HTMLSalesFormatter.java
 
 [Document 2]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=Python
-Indentation Mode=python
-Mode=Python
-URL=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/generate_list.py
+Highlighting=Java
+Indentation Mode=normal
+Mode=Java
+URL=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/PlainTextSalesFormatter.java
 
 [Document 3]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=Python
-Indentation Mode=python
-Mode=Python
-URL=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py
+Highlighting=Java
+Indentation Mode=normal
+Mode=Java
+URL=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/XMLSalesFormatter.java
 
 [Document 4]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=Python
-Indentation Mode=python
-Mode=Python
-URL=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/new_wish.py
+Highlighting=Java
+Indentation Mode=normal
+Mode=Java
+URL=file:///home/wang/Desktop/javazuoye/Ex5/GourmetCoffee.java
 
 [Document 5]
 Bookmarks=
@@ -258,13 +258,13 @@ WindowState=10
 Sizes=1135
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/wang/Documents/code/cpp/dulculator/elelcalc.c
+Active View=file:///media/wang/DATA/music/Teresa/ミッドナイト.レクイエム.lrc
 Count=1
-View 0=file:///home/wang/Documents/code/cpp/dulculator/elelcalc.c
-View 1=file:///home/wang/Documents/code/python/textsheet/textsheet.py
-View 2=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/generate_list.py
-View 3=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/get_db_path.py
-View 4=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/new_wish.py
+View 0=file:///media/wang/DATA/music/Teresa/ミッドナイト.レクイエム.lrc
+View 1=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/PlainTextSalesFormatter.java
+View 2=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/XMLSalesFormatter.java
+View 3=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/GourmetCoffee.java
+View 4=file:///home/wang/Desktop/javazuoye/Ex5/GourmetCoffee.java
 View 5=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py
 View 6=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/to_human_time.py
 View 7=file:///home/wang/Documents/code/c/ichttpd/www/cgi-bin/wishmodel.py
@@ -283,8 +283,8 @@ JumpList=
 ViMarks=
 
 [MainWindow0-ViewSpace 0 file:///home/wang/.vim/README.md]
-CursorColumn=0
-CursorLine=52
+CursorColumn=105
+CursorLine=60
 JumpList=
 ViMarks=
 
@@ -294,7 +294,103 @@ CursorLine=7932
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/GourmetCoffee.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/HTMLSalesFormatter.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/PlainTextSalesFormatter.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/SalesFormatter.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/XMLSalesFormatter.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Desktop/goagent-gtk.desktop]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/javazuoye/Ex5/GourmetCoffee.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/javazuoye/PQ9/student-files/Employee.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/javazuoye/PQ9/student-files/EmployeeFileIO.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/javazuoye/PQ9/student-files/Employees.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/javazuoye/PQ9/student-files/TestEmployeeFileIO.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/javazuoye/PQ9/student-files/employees.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/javazuoye/PQ9/student-files/empty.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/javazuoye/PQ9/student-files/testWriteOne.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/javazuoye/PQ9/student-files/testWriteTwo.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/bin/XX-Net-2.5.5/XX-Net.desktop]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/bin/autoexec/autoexec.sh]
 CursorColumn=0
 CursorLine=0
 JumpList=
@@ -321,6 +417,18 @@ ViMarks=
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/algorithm/ac/main.cpp]
 CursorColumn=1
 CursorLine=234
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/algorithm/kmp/in.txt]
+CursorColumn=17
+CursorLine=10
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/hiho/trie.cpp]
+CursorColumn=0
+CursorLine=235
 JumpList=
 ViMarks=
 
@@ -426,6 +534,12 @@ CursorLine=101
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/temp/pow.c]
+CursorColumn=54
+CursorLine=14
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/temp/regex/main.c]
 CursorColumn=18
 CursorLine=2
@@ -447,6 +561,12 @@ ViMarks=
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/dulculator/main.c]
 CursorColumn=0
 CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/temp/main.c]
+CursorColumn=51
+CursorLine=2
 JumpList=
 ViMarks=
 
@@ -474,9 +594,27 @@ CursorLine=2
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/sh/configure_fedora.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/collect/20个Linux命令.html]
 CursorColumn=0
 CursorLine=165
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/lambda.md]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/office/Linux C 相关.txt.c]
+CursorColumn=0
+CursorLine=0
 JumpList=
 ViMarks=
 
@@ -501,6 +639,24 @@ ViMarks=
 [MainWindow0-ViewSpace 0 file:///home/wang/Downloads/ACKMP/Matcher.h]
 CursorColumn=0
 CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/activesys-libcstl-f0fd5cc/README]
+CursorColumn=0
+CursorLine=12
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/activesys-libcstl-f0fd5cc/VERSION]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/activesys-libcstl-f0fd5cc/src/cstl_algo_mutating.c]
+CursorColumn=0
+CursorLine=734
 JumpList=
 ViMarks=
 
@@ -570,7 +726,31 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/tinyhttpd-0.1.0/simpleclient.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Downloads/「fcitx－搜狗」合并词库（2012-06-17）/词库清单.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Pictures/siro/picget.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Templates/C源代码.c]
+CursorColumn=22
+CursorLine=22
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Templates/Shell脚本.sh]
 CursorColumn=0
 CursorLine=0
 JumpList=
@@ -582,7 +762,97 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/assignment/jukebox/work/HtmlAnchor.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/assignment/jukebox/work/HtmlPage.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/assignment/jukebox/work/HtmlTable.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/assignment/jukebox/work/Jukebox.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/assignment/jukebox/work/Song.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/diary/2013-08/2013-08-24.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/plain_text/Usr&Passwd.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/plain_text/new_mix.txt]
+CursorColumn=0
+CursorLine=42
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/music/Teresa/つぐない.lrc]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/music/Teresa/スキャンダル.lrc]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/music/Teresa/ミッドナイト.レクイエム.lrc]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/KINGSTON/CMakeLists.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/Kindle/wininfo_screenshot_2015_10_05T23_50_17+0800.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/TOSHIBA/_my_doc_/K2PDFopt选项说明.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/ZERO 素人以上、女優未満.smi]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/TOSHIBA/_my_doc_/backup/windows/2015-03-01/temp/c4-master/c4.c]
 CursorColumn=0
 CursorLine=0
 JumpList=
@@ -594,9 +864,63 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///media/wang/TOSHIBA/_my_doc_/剩余.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///media/wang/TOSHIBA/工作簿1.csv]
 CursorColumn=0
 CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/WININSTALL/FOUND.000/FILE0000.CHK]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/WININSTALL/code/api/new.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/WININSTALL/code/consume/main.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/WININSTALL/code/philosopher/main.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/WININSTALL/code/strtok/main.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/WININSTALL/code/strtok/strtok.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/WININSTALL/report/tex/Exp1.tex]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///usr/share/doc/gcc-4.9/README.Bugs]
+CursorColumn=23
+CursorLine=141
 JumpList=
 ViMarks=
 
@@ -633,26 +957,26 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Documents/code/c/ichttpd/www/cgi-bin/thumb_up.py
-File10[$e]=$HOME/Documents/code/cpp/dulculator/elelcalc.c
-File2[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.h
-File3[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.c
-File4[$e]=$HOME/.vim/README.md
-File5[$e]=$HOME/.bash_aliases
-File6[$e]=$HOME/Documents/code/c/temp/poly/README.md
-File7[$e]=$HOME/Documents/code/python/MarkCode/gradeCalc.py
-File8[$e]=/media/wang/TOSHIBA/工作簿1.csv
-File9[$e]=$HOME/Documents/code/python/textsheet/textsheet.py
-Name1[$e]=thumb_up.py
-Name10[$e]=elelcalc.c
-Name2[$e]=ichttpd.h
-Name3[$e]=ichttpd.c
-Name4[$e]=README.md
-Name5[$e]=.bash_aliases
-Name6[$e]=README.md
-Name7[$e]=gradeCalc.py
-Name8[$e]=工作簿1.csv
-Name9[$e]=textsheet.py
+File1[$e]=$HOME/Templates/Shell脚本.sh
+File10[$e]=/media/wang/DATA/music/Teresa/ミッドナイト.レクイエム.lrc
+File2[$e]=$HOME/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/SalesFormatter.java
+File3[$e]=$HOME/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/GourmetCoffee.java
+File4[$e]=$HOME/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/HTMLSalesFormatter.java
+File5[$e]=$HOME/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/PlainTextSalesFormatter.java
+File6[$e]=$HOME/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/XMLSalesFormatter.java
+File7[$e]=$HOME/Desktop/javazuoye/Ex5/GourmetCoffee.java
+File8[$e]=/media/wang/DATA/music/Teresa/つぐない.lrc
+File9[$e]=/media/wang/DATA/music/Teresa/スキャンダル.lrc
+Name1[$e]=Shell脚本.sh
+Name10[$e]=ミッドナイト.レクイエム.lrc
+Name2[$e]=SalesFormatter.java
+Name3[$e]=GourmetCoffee.java
+Name4[$e]=HTMLSalesFormatter.java
+Name5[$e]=PlainTextSalesFormatter.java
+Name6[$e]=XMLSalesFormatter.java
+Name7[$e]=GourmetCoffee.java
+Name8[$e]=つぐない.lrc
+Name9[$e]=スキャンダル.lrc
 
 [TipOfDay]
 RunOnStart=false

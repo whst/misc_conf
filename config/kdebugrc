@@ -106,6 +106,9 @@ InfoOutput=4
 [kdostartupconfig4]
 InfoOutput=4
 
+[kfilemodule]
+InfoOutput=2
+
 [kfmclient]
 InfoOutput=4
 

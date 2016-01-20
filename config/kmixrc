@@ -23,6 +23,9 @@ Split=false
 [View.PulseAudio.回放流.1.default.PulseAudio::Playback_Streams:1.restore:sink-input-by-media-role:event]
 Split=false
 
+[View.PulseAudio.回放流.1.default.PulseAudio::Playback_Streams:1.stream:0]
+Split=false
+
 [View.PulseAudio.回放流.1.default.PulseAudio::Playback_Streams:1.stream:19]
 Split=false
 

@@ -4,8 +4,8 @@ Width 1366=1366
 
 [KFileDialog Settings]
 Height 768=420
-Recent Files[$e]=1225432264483nhwvrh4z7i.jpg,$HOME/Pictures/logo/550625848_cc8f0c319d.jpg,$HOME/Pictures/logo/BP.jpg,$HOME/Pictures/wallpapers/1225432264483nhwvrh4z7i.jpg
-Recent URLs[$e]=$HOME/Pictures/wallpapers/,$HOME/Pictures/logo/,$HOME/Pictures/
+Recent Files[$e]=1225432264483nhwvrh4z7i.jpg,$HOME/Documents/bin/XX-Net-2.5.5/start.sh,$HOME/Documents/bin/XX-Net-2.5.5/XX-Net.desktop,$HOME/Pictures/logo/550625848_cc8f0c319d.jpg,$HOME/Pictures/logo/BP.jpg,$HOME/Pictures/wallpapers/1225432264483nhwvrh4z7i.jpg
+Recent URLs[$e]=$HOME/Pictures/wallpapers/,$HOME/Pictures/logo/,$HOME/Pictures/,$HOME/Documents/bin/XX-Net-2.5.5/,$HOME/Documents/bin/
 Width 1366=683
 
 [KPropertiesDialog]
@@ -15,10 +15,10 @@ Width 1366=317
 [MainWindow]
 Height 768=512
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAzoAAAHiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAq4AAAHiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=826
+Width 1366=686
 
 [Open-with settings]
 CompletionMode=5
-History=/usr/bin/env python2 "/home/wang/Documents/bin/goagent-v3.2.0/local/goagent-gtk.py",/home/wang/Desktop/goagent-gtk.desktop
+History=/home/wang/Documents/bin/XX-Net-2.5.5/XX-Net.desktop,/usr/bin/env python2 "/home/wang/Documents/bin/goagent-v3.2.0/local/goagent-gtk.py",/home/wang/Desktop/goagent-gtk.desktop

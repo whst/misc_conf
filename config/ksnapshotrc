@@ -1,14 +1,14 @@
 [GENERAL]
-delay=1
-filename[$e]=file://$HOME/Pictures/shot/kmp2.png
+delay=0
+filename[$e]=file://$HOME/Pictures/shot/abc1.png
 includeDecorations=true
 includePointer=false
 mode=2
 
 [KFileDialog Settings]
 Height 768=420
-Recent Files[$e]=$HOME/Pictures/shot/git.png,$HOME/Pictures/shot/kmp1.png,$HOME/Pictures/shot/kmp.png,$HOME/Pictures/shot/约瑟夫.png
-Recent URLs[$e]=$HOME/Pictures/,$HOME/Pictures/shot/
+Recent Files[$e]=$HOME/Pictures/shot/git.png,$HOME/Pictures/shot/abc.png,$HOME/Pictures/shot/tu.png,$HOME/Pictures/shot/tree.png,$HOME/Pictures/shot/set.png,$HOME/Pictures/shot/leetcode.png,$HOME/.vim/gitfiles/tab_completion.png,$HOME/Pictures/shot/kmp3.png,$HOME/Pictures/shot/kmp2.png,$HOME/Pictures/shot/kmp1.png,$HOME/Pictures/shot/约瑟夫.png
+Recent URLs[$e]=$HOME/.vim/gitfiles/,$HOME/Pictures/,$HOME/Pictures/shot/,$HOME/Documents/code/iss_homework/data_structure/7_qsort/,$HOME/Documents/code/iss_homework/data_structure/5_postorder-iterator/,$HOME/Documents/code/
 Width 1366=683
 
 [MainWindow]

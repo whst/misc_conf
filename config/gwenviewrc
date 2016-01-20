@@ -1,3 +1,7 @@
+[KFileDialog Settings]
+Height 768=420
+Width 1366=683
+
 [MainWindow]
 Height 768=769
 State=AAAA/wAAAAD9AAAAAAAABVYAAAKdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
@@ -5,26 +9,32 @@ ToolBarsMovable=Disabled
 Width 1366=1367
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/ROC_Sino_Jap_war.jpeg
-File10[$e]=/media/wang/UUI/boot/grub2-efi/themes/openSUSE/terminal_box_e.png
-File2[$e]=$HOME/Pictures/siro/wall.jpg
-File3[$e]=$HOME/Pictures/siro/GR6.jpg
-File4[$e]=$HOME/Pictures/siro/GR3.jpg
-File5[$e]=$HOME/Pictures/siro/GR4.jpg
-File6[$e]=$HOME/Pictures/siro/GR5.jpg
-File7[$e]=/media/wang/TOSHIBA/_my_doc_/TV/S-cute 289-Rei/S-cute 289-Rei.jpg
-File8[$e]=/media/wang/UUI/boot/grub2-efi/themes/openSUSE/slider_s.png
-File9[$e]=/media/wang/UUI/boot/grub2-efi/themes/openSUSE/terminal_box_c.png
-Name1[$e]=ROC_Sino_Jap_war.jpeg
-Name10[$e]=terminal_box_e.png
-Name2[$e]=wall.jpg
-Name3[$e]=GR6.jpg
-Name4[$e]=GR3.jpg
-Name5[$e]=GR4.jpg
-Name6[$e]=GR5.jpg
-Name7[$e]=S-cute 289-Rei.jpg
-Name8[$e]=slider_s.png
-Name9[$e]=terminal_box_c.png
+File1[$e]=/media/wang/TOSHIBA/一加备份/QQ_Images/1426808966388.jpeg
+File10[$e]=/media/wang/DATA/music/Teresa/Folder.jpg
+File2[$e]=$HOME/Downloads/ROC_Sino_Jap_war.jpeg
+File3[$e]=$HOME/Pictures/psb.jpg
+File4[$e]=$HOME/Pictures/wallpapers/mbuntu (1).png
+File5[$e]=$HOME/Pictures/wallpapers/Kyles-mockup-2.jpg
+File6[$e]=$HOME/Pictures/siro/wall.jpg
+File7[$e]=$HOME/Downloads/screenshot.png
+File8[$e]=$HOME/Desktop/screenshot_2015_10_05T23_50_17+0800.png
+File9[$e]=$HOME/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/Exercise代码运行结果图.png
+Name1[$e]=1426808966388.jpeg
+Name10[$e]=Folder.jpg
+Name2[$e]=ROC_Sino_Jap_war.jpeg
+Name3[$e]=psb.jpg
+Name4[$e]=mbuntu (1).png
+Name5[$e]=Kyles-mockup-2.jpg
+Name6[$e]=wall.jpg
+Name7[$e]=screenshot.png
+Name8[$e]=screenshot_2015_10_05T23_50_17+0800.png
+Name9[$e]=Exercise代码运行结果图.png
+
+[SideBar-BrowseMode]
+IsVisible=true
+
+[SideBar-FullScreenMode]
+IsVisible=false
 
 [SideBar-ViewMode]
-IsVisible=true
+IsVisible=false

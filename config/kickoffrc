@@ -1,5 +1,5 @@
 [Favorites]
-FavoriteURLs=/usr/share/applications/kde4/KMail2.desktop,/usr/share/applications/kde4/systemsettings.desktop,/usr/share/applications/iceweasel.desktop,/usr/share/applications/vmware-workstation.desktop,/usr/share/applications/terminator.desktop,/usr/share/applications/kde4/ksnapshot.desktop,/usr/share/applications/kde4/kcalc.desktop
+FavoriteURLs=/usr/share/applications/kde4/KMail2.desktop,/usr/share/applications/kde4/systemsettings.desktop,/usr/share/applications/iceweasel.desktop,/usr/share/applications/vmware-workstation.desktop,/usr/share/applications/terminator.desktop,/usr/share/applications/kde4/ksnapshot.desktop,/usr/share/applications/kde4/kcalc.desktop,/usr/share/applications/XX-Net.desktop
 
 [KRunner]
 loadAll=false
@@ -8,4 +8,4 @@ loadAll=false
 pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
 
 [RecentlyUsed]
-Applications=kde4-kcalc.desktop,iceweasel.desktop,kde4-juk.desktop,terminator.desktop,kde4-konqbrowser.desktop
+Applications=kde4-apper.desktop,vmware-workstation.desktop,terminator.desktop,kde4-ksnapshot.desktop,bpython.desktop

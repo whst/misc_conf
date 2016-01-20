@@ -6,10 +6,4 @@ ShellOpenFileInTabs=true
 
 [Main View]
 ShowLeftPanel=false
-SplitterSizes=182,1117
-
-[PageView]
-MouseMode=TextSelect
-
-[Search]
-SearchCaseSensitive=true
+SplitterSizes=247,1052

@@ -10,6 +10,14 @@ Width 1366=700
 Height 768=420
 Width 1366=683
 
+[KPropertiesDialog]
+Height 768=364
+Width 1366=404
+
+[Open-with settings]
+CompletionMode=5
+History=gimp-2.8 %U
+
 [PlasmaViews][1]
 panelVisibility=0
 
@@ -25,7 +33,7 @@ performed=/usr/share/kde4/apps/plasma-desktop/updates/set-hidden-single-vd-pager
 
 [invokeAction]
 __file=
-actionId=
+actionId=1
 predicate=test-predicate-openinwindow.desktop
 
 [mount]
@@ -34,6 +42,10 @@ __file=
 [remove]
 Id=3bdc5adc-ba87-4147-bbe5-b4696b4a6948
 __file=
+
+[setBrightness]
+__file=
+brightness=10
 
 [setCurrent]
 __file=

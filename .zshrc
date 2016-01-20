@@ -49,7 +49,7 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(zsh-syntax-highlighting zsh-autosuggestions git sudo ls autojump colored-man-pages colorize extract)
+plugins=(zsh-syntax-highlighting zsh-autosuggestions git sudo ls autojump colored-man-pages colorize extract zsh-256color)
 
 # User configuration
 
@@ -101,9 +101,8 @@ alias py3='python3'
 alias bpy='bpython';
 alias bpy3='bpython3'
 
-alias v='vim';  alias sv='vim --noplugin'
-alias svim='vim --noplugin'
-alias gv='gvim' alias sgv='gvim --noplugin'
+alias v='vim'
+alias gv='gvim'
 alias cls='printf "\033c"'
 alias sl='ls';  alias ks='ls'
 
@@ -158,11 +157,10 @@ fi
 hash -d DATA='/media/wang/DATA'
 hash -d MUSIC='/media/wang/DATA/music'
 hash -d MOVIE='/media/wang/TOSHIBA/_my_doc_/movie'
-hash -d VIDEO='/media/wang/DATA/video'
-hash -d CODE='/home/wang/Documents/code'
+hash -d CODE="$HOME/Documents/code"
 hash -d DIARY='/media/wang/DATA/doc/diary'
 hash -d DOWNLOAD='/media/wang/DATA/download'
-hash -d TEMPLATE='/home/wang/Templates'
+hash -d PDF="$HOME/Documents/pdf"
 
 # Java Var
 export JAVA_HOME=/usr/lib/jvm/java-8-oracle

@@ -3,8 +3,8 @@ FullScreen=false
 
 [KFileDialog Settings]
 Height 768=420
-Recent Files[$e]=龙书.pdf,$HOME/Documents/pdf/编译原理/龙书.pdf,$HOME/Documents/pdf/编译原理/中文无目录.pdf
-Recent URLs[$e]=$HOME/Documents/pdf/编译原理/
+Recent Files[$e]=龙书.pdf,$HOME/Desktop/计组作业.pdf,/media/wang/DATA/download/college_lessons/University Physics 12th Edition.pdf,$HOME/Documents/pdf/编译原理/龙书.pdf,$HOME/Documents/pdf/编译原理/中文无目录.pdf
+Recent URLs[$e]=$HOME/Documents/pdf/编译原理/,/media/wang/DATA/download/college_lessons/
 Width 1366=683
 
 [MainWindow]
@@ -13,24 +13,23 @@ State=AAAA/wAAAAD9AAAAAAAABVYAAAK7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 Width 1366=1367
 
+[Notification Messages]
+presentationInfo=false
+
+[Print Preview]
+Height 768=500
+Width 1366=600
+
 [Recent Files]
-File1[$e]=/media/wang/DATA/download/college_lessons/西尔斯当代大学物理-12版(上).pdf
-File10[$e]=$HOME/Documents/pdf/编译原理/龙书-英文无目录.pdf
-File2[$e]=$HOME/Desktop/算法精解：C语言描述.azw
-File3[$e]=/media/wang/DATA/doc/pdf/编译原理/答案汇总.pdf
-File4[$e]=/media/wang/DATA/doc/pdf/Head First C.pdf
-File5[$e]=$HOME/Downloads/jb51.net/[O'Reilly：学习OpenCV（中文版）].(布拉德斯基等).于仕琪等.扫描版.pdf
-File6[$e]=/media/wang/DATA/download/college_lessons/University Physics 12th Edition.pdf
-File7[$e]=/media/wang/DATA/download/college_lessons/University Physics [Solutions].pdf
-File8[$e]=/media/wang/DATA/download/2014级奖学金1/武汉大学本科学生素质综合测评实施办法.pdf
-File9[$e]=/media/wang/DATA/download/2014级奖学金1/武汉大学国际软件学院2014级奖学金评选补充细则（2015-9-26暂定稿）.pdf
-Name1[$e]=西尔斯当代大学物理-12版(上).pdf
-Name10[$e]=龙书-英文无目录.pdf
-Name2[$e]=算法精解：C语言描述.azw
-Name3[$e]=答案汇总.pdf
-Name4[$e]=Head First C.pdf
-Name5[$e]=[O'Reilly：学习OpenCV（中文版）].(布拉德斯基等).于仕琪等.扫描版.pdf
-Name6[$e]=University Physics 12th Edition.pdf
-Name7[$e]=University Physics [Solutions].pdf
-Name8[$e]=武汉大学本科学生素质综合测评实施办法.pdf
-Name9[$e]=武汉大学国际软件学院2014级奖学金评选补充细则（2015-9-26暂定稿）.pdf
+File1[$e]=$HOME/Documents/pdf/java_tutorial.pdf
+File2[$e]=$HOME/Desktop/javazuoye/Ex5/Exercise5.pdf
+File3[$e]=$HOME/Desktop/Java课件/面向对象程序设计（期末）B卷 2014 .pdf
+File4[$e]=$HOME/Desktop/Java课件/Java_How_to_Program_9th_Edition.pdf
+File5[$e]=$HOME/Desktop/Java课件/jhtp8_ch14.pdf
+File6[$e]=$HOME/Desktop/Java课件/面向对象程序设计（期末）A卷 2014.pdf
+Name1[$e]=java_tutorial.pdf
+Name2[$e]=Exercise5.pdf
+Name3[$e]=面向对象程序设计（期末）B卷 2014 .pdf
+Name4[$e]=Java_How_to_Program_9th_Edition.pdf
+Name5[$e]=jhtp8_ch14.pdf
+Name6[$e]=面向对象程序设计（期末）A卷 2014.pdf

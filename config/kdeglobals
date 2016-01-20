@@ -96,7 +96,7 @@ ForegroundVisited=69,40,134
 
 [DirSelect Dialog]
 DirSelectDialog Size=788,512
-History Items[$e]=file:///media/wang/DATA/music,file://$HOME/Pictures/anime,file://$HOME/Pictures/wallpapers,file://$HOME/Documents/bin,file:///media/wang/DATA/picture/background/,file://$HOME/Pictures/MBuntu-Wallpapers
+History Items[$e]=file://$HOME/Documents/bin,file:///media/wang/DATA/music,file://$HOME/Pictures/anime,file://$HOME/Pictures/wallpapers,file:///media/wang/DATA/picture/background/,file://$HOME/Pictures/MBuntu-Wallpapers
 
 [General]
 BrowserApplication=google-chrome.desktop

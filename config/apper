@@ -7,8 +7,12 @@ FilterNewest=true
 HidePackages=false
 
 [MainUi]
-Height 768=467
-Width 1366=906
+Height 768=525
+Width 1366=897
+
+[SessionInstaller]
+Height 768=280
+Width 1366=430
 
 [UpdateView]
 ShowSizes=true

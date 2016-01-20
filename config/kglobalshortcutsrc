@@ -247,3 +247,7 @@ SystemTray-Klipper-6=Ctrl+Alt+V,Ctrl+Alt+V,
 _k_friendly_name=Plasma 桌面外壳
 activate widget 2=Alt+F1,Alt+F1,激活 程序启动器 部件
 manage activities=Meta+Q,Meta+Q,活动...
+
+[synaptiks]
+_k_friendly_name=synaptiks
+touchpadOn=,Ctrl+Alt+T,Touchpad on
