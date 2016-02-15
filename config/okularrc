@@ -3,15 +3,15 @@ FullScreen=false
 
 [KFileDialog Settings]
 Height 768=420
-Recent Files[$e]=龙书.pdf,$HOME/Desktop/计组作业.pdf,/media/wang/DATA/download/college_lessons/University Physics 12th Edition.pdf,$HOME/Documents/pdf/编译原理/龙书.pdf,$HOME/Documents/pdf/编译原理/中文无目录.pdf
-Recent URLs[$e]=$HOME/Documents/pdf/编译原理/,/media/wang/DATA/download/college_lessons/
+Recent Files[$e]=龙书.pdf,/media/wang/DATA/temp/计算机程序的构造和解释（SICP中文第2版）.pdf,/media/wang/DATA/temp/sicp.pdf,$HOME/Documents/pdf/编译原理/龙书.pdf,$HOME/Documents/pdf/编译原理/中文无目录.pdf
+Recent URLs[$e]=$HOME/Documents/pdf/编译原理/,/media/wang/DATA/download/college_lessons/,/media/wang/DATA/temp/
 Width 1366=683
 
 [MainWindow]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAK7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAmkAAAK0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=1367
+Width 1366=617
 
 [Notification Messages]
 presentationInfo=false
@@ -21,15 +21,23 @@ Height 768=500
 Width 1366=600
 
 [Recent Files]
-File1[$e]=$HOME/Documents/pdf/java_tutorial.pdf
-File2[$e]=$HOME/Desktop/javazuoye/Ex5/Exercise5.pdf
-File3[$e]=$HOME/Desktop/Java课件/面向对象程序设计（期末）B卷 2014 .pdf
-File4[$e]=$HOME/Desktop/Java课件/Java_How_to_Program_9th_Edition.pdf
-File5[$e]=$HOME/Desktop/Java课件/jhtp8_ch14.pdf
-File6[$e]=$HOME/Desktop/Java课件/面向对象程序设计（期末）A卷 2014.pdf
-Name1[$e]=java_tutorial.pdf
-Name2[$e]=Exercise5.pdf
-Name3[$e]=面向对象程序设计（期末）B卷 2014 .pdf
-Name4[$e]=Java_How_to_Program_9th_Edition.pdf
-Name5[$e]=jhtp8_ch14.pdf
-Name6[$e]=面向对象程序设计（期末）A卷 2014.pdf
+File1[$e]=$HOME/Downloads/refcard.pdf
+File10[$e]=$HOME/Downloads/sicp.pdf
+File2[$e]=$HOME/Downloads/emacs.pdf
+File3[$e]=$HOME/Downloads/Learning.GNU.Emacs.3rd.edition.pdf
+File4[$e]=$HOME/Documents/pdf/text/csapp.pdf
+File5[$e]=/media/wang/DATA/temp/计算机程序的构造和解释（SICP中文第2版）.pdf
+File6[$e]=$HOME/Documents/pdf/text/Haskell趣学指南.pdf
+File7[$e]=/media/wang/TOSHIBA/_my_doc_/pdf/scan/UNIX环境高级编程(第二版中文).pdf
+File8[$e]=/media/wang/DATA/temp/sicp.pdf
+File9[$e]=$HOME/Desktop/SICP中文第2版.pdf
+Name1[$e]=refcard.pdf
+Name10[$e]=sicp.pdf
+Name2[$e]=emacs.pdf
+Name3[$e]=Learning.GNU.Emacs.3rd.edition.pdf
+Name4[$e]=csapp.pdf
+Name5[$e]=计算机程序的构造和解释（SICP中文第2版）.pdf
+Name6[$e]=Haskell趣学指南.pdf
+Name7[$e]=UNIX环境高级编程(第二版中文).pdf
+Name8[$e]=sicp.pdf
+Name9[$e]=SICP中文第2版.pdf

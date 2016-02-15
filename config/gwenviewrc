@@ -9,26 +9,26 @@ ToolBarsMovable=Disabled
 Width 1366=1367
 
 [Recent Files]
-File1[$e]=/media/wang/TOSHIBA/一加备份/QQ_Images/1426808966388.jpeg
-File10[$e]=/media/wang/DATA/music/Teresa/Folder.jpg
-File2[$e]=$HOME/Downloads/ROC_Sino_Jap_war.jpeg
-File3[$e]=$HOME/Pictures/psb.jpg
-File4[$e]=$HOME/Pictures/wallpapers/mbuntu (1).png
-File5[$e]=$HOME/Pictures/wallpapers/Kyles-mockup-2.jpg
-File6[$e]=$HOME/Pictures/siro/wall.jpg
-File7[$e]=$HOME/Downloads/screenshot.png
-File8[$e]=$HOME/Desktop/screenshot_2015_10_05T23_50_17+0800.png
-File9[$e]=$HOME/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/Exercise代码运行结果图.png
-Name1[$e]=1426808966388.jpeg
-Name10[$e]=Folder.jpg
-Name2[$e]=ROC_Sino_Jap_war.jpeg
-Name3[$e]=psb.jpg
-Name4[$e]=mbuntu (1).png
-Name5[$e]=Kyles-mockup-2.jpg
-Name6[$e]=wall.jpg
-Name7[$e]=screenshot.png
-Name8[$e]=screenshot_2015_10_05T23_50_17+0800.png
-Name9[$e]=Exercise代码运行结果图.png
+File1[$e]=$HOME/Documents/code/opencv/sample/Anastasia-Shcheglova-por-Boris-Bugaev.jpg
+File10[$e]=$HOME/Documents/code/opencv/sample/anime/135a7d600c338744a0771fd8510fd9f9d62aa066.jpg
+File2[$e]=$HOME/Documents/code/opencv/sample/Anastasia-Shcheglova-por-Boris-Bugaev-09.jpg
+File3[$e]=$HOME/Documents/code/opencv/sample/anime/2 (13).jpg
+File4[$e]=$HOME/Documents/code/opencv/sample/anime/2 (20).jpg
+File5[$e]=$HOME/Documents/code/opencv/sample/anime/5莉莉白.jpg
+File6[$e]=$HOME/Documents/code/opencv/sample/anime/73e5cb0f4bfbfbed818632dd79f0f736aec31f7a.jpg
+File7[$e]=$HOME/Documents/code/opencv/sample/anime/91-120ZR04336.jpg
+File8[$e]=$HOME/Documents/code/opencv/sample/anime/117.【境界的彼方】.jpg
+File9[$e]=$HOME/Documents/code/opencv/sample/anime/123 (5).jpg
+Name1[$e]=Anastasia-Shcheglova-por-Boris-Bugaev.jpg
+Name10[$e]=135a7d600c338744a0771fd8510fd9f9d62aa066.jpg
+Name2[$e]=Anastasia-Shcheglova-por-Boris-Bugaev-09.jpg
+Name3[$e]=2 (13).jpg
+Name4[$e]=2 (20).jpg
+Name5[$e]=5莉莉白.jpg
+Name6[$e]=73e5cb0f4bfbfbed818632dd79f0f736aec31f7a.jpg
+Name7[$e]=91-120ZR04336.jpg
+Name8[$e]=117.【境界的彼方】.jpg
+Name9[$e]=123 (5).jpg
 
 [SideBar-BrowseMode]
 IsVisible=true

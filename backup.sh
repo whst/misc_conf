@@ -13,4 +13,5 @@ cp -R ~/.config/terminator .
 # Much file
 cp -R ~/.kde/share/config .
 
-git push -u origin master
+git add ./.zshrc ./.bashrc ./.bash_aliases ./.kde ./.config
+git push origin master

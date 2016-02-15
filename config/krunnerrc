@@ -2,10 +2,10 @@
 Offset=0.5
 
 [General]
-PastQueries=,Okular
+PastQueries=,fcitx,Okular
 
 [Interface]
 Size=420,500
 
 [PlasmaRunnerManager]
-LaunchCounts=1 services_kde4-okular.desktop
+LaunchCounts=1 shell_fcitx,1 services_kde4-okular.desktop

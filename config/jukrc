@@ -1,9 +1,12 @@
+[FileRemover]
+deleteInsteadOfTrash=true
+
 [KFileDialog Settings]
 Height 768=420
 Width 1366=683
 
 [LyricsWidget]
-Show=true
+Show=false
 
 [MainWindow]
 State=AAAA/wAAAAD9AAAAAAAAAyAAAAGMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAFgBwAGwAYQB5AFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
@@ -33,7 +36,7 @@ showUpcoming=false
 
 [Splitter]
 EditorSplitterSizes=396,0
-PlaylistSplitterSizes=90,504,200
+PlaylistSplitterSizes=121,676,0
 ShowSearch=true
 
 [TagEditor]

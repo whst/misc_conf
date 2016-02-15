@@ -8,6 +8,8 @@ Width 1366=700
 
 [KFileDialog Settings]
 Height 768=420
+Recent Files[$e]=gnuEmacsRef.png,$HOME/Pictures/gnuEmacsRef.png
+Recent URLs[$e]=$HOME/Pictures/,$HOME/Public/
 Width 1366=683
 
 [KPropertiesDialog]

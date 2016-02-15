@@ -6,4 +6,7 @@ ShellOpenFileInTabs=true
 
 [Main View]
 ShowLeftPanel=false
-SplitterSizes=247,1052
+SplitterSizes=322,977
+
+[PageView]
+TrimMargins=true
