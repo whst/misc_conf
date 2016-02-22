@@ -7,11 +7,12 @@
 cp ~/.zshrc .
 cp ~/.bashrc .
 cp ~/.bash_aliases .
+cp ~/.ghci .
 
 cp -R ~/.kde/share/apps/konsole .
 cp -R ~/.config/terminator .
-# Much file
+# Many files
 cp -R ~/.kde/share/config .
 
-git add ./.zshrc ./.bashrc ./.bash_aliases ./.kde ./.config
-git push origin master
+#git add ./.zshrc ./.bashrc ./.bash_aliases ./.kde ./.config
+#git push origin master

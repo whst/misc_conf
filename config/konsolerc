@@ -18,3 +18,4 @@ Width 1366=1367
 
 [TabBar]
 ShowQuickButtons=true
+TabBarVisibility=ShowTabBarWhenNeeded

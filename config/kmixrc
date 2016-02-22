@@ -8,7 +8,7 @@ Menubar=true
 MixerIgnoreExpression=Modem
 Position=0,0
 Size=683,307
-Soundmenu.Mixers=
+Soundmenu.Mixers=PulseAudio::Playback_Streams:1,PulseAudio::Capture_Streams:1,PulseAudio::Playback_Devices:1,PulseAudio::Capture_Devices:1
 Visible=false
 
 [View.PulseAudio.Capture_Devices.1.default.PulseAudio::Capture_Devices:1.alsa_input.pci-0000_00_1b.0.analog-stereo]

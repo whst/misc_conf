@@ -9,9 +9,9 @@ Width 1366=683
 
 [MainWindow]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAAAmkAAAK0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=617
+Width 1366=1367
 
 [Notification Messages]
 presentationInfo=false
@@ -21,23 +21,21 @@ Height 768=500
 Width 1366=600
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/refcard.pdf
-File10[$e]=$HOME/Downloads/sicp.pdf
-File2[$e]=$HOME/Downloads/emacs.pdf
-File3[$e]=$HOME/Downloads/Learning.GNU.Emacs.3rd.edition.pdf
-File4[$e]=$HOME/Documents/pdf/text/csapp.pdf
-File5[$e]=/media/wang/DATA/temp/计算机程序的构造和解释（SICP中文第2版）.pdf
-File6[$e]=$HOME/Documents/pdf/text/Haskell趣学指南.pdf
-File7[$e]=/media/wang/TOSHIBA/_my_doc_/pdf/scan/UNIX环境高级编程(第二版中文).pdf
-File8[$e]=/media/wang/DATA/temp/sicp.pdf
-File9[$e]=$HOME/Desktop/SICP中文第2版.pdf
-Name1[$e]=refcard.pdf
-Name10[$e]=sicp.pdf
-Name2[$e]=emacs.pdf
-Name3[$e]=Learning.GNU.Emacs.3rd.edition.pdf
-Name4[$e]=csapp.pdf
-Name5[$e]=计算机程序的构造和解释（SICP中文第2版）.pdf
-Name6[$e]=Haskell趣学指南.pdf
-Name7[$e]=UNIX环境高级编程(第二版中文).pdf
-Name8[$e]=sicp.pdf
-Name9[$e]=SICP中文第2版.pdf
+File1[$e]=/media/wang/DATA/temp/计算机程序的构造和解释（SICP中文第2版）.pdf
+File2[$e]=$HOME/Documents/pdf/text/Haskell趣学指南.pdf
+File3[$e]=/media/wang/TOSHIBA/_my_doc_/pdf/scan/UNIX环境高级编程(第二版中文).pdf
+File4[$e]=$HOME/Downloads/sicp.pdf
+File5[$e]=$HOME/Documents/pdf/sicp.pdf
+File6[$e]=/media/wang/DATA/temp/sicp.pdf
+File7[$e]=$HOME/Desktop/SICP中文第2版.pdf
+File8[$e]=$HOME/Documents/pdf/tmux.pdf
+File9[$e]=$HOME/Desktop/sicp_k2opt.pdf
+Name1[$e]=计算机程序的构造和解释（SICP中文第2版）.pdf
+Name2[$e]=Haskell趣学指南.pdf
+Name3[$e]=UNIX环境高级编程(第二版中文).pdf
+Name4[$e]=sicp.pdf
+Name5[$e]=sicp.pdf
+Name6[$e]=sicp.pdf
+Name7[$e]=SICP中文第2版.pdf
+Name8[$e]=tmux.pdf
+Name9[$e]=sicp_k2opt.pdf

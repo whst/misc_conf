@@ -6,7 +6,7 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K,Ctrl+Alt+K,切换到下一个键盘布
 _k_friendly_name=KDE 键盘布局切换器
 
 [juk]
-_k_friendly_name=JuK
+_k_friendly_name=juk
 back=Media Previous,Ctrl+Alt+Left,上一首
 forward=Media Next,Ctrl+Alt+Right,下一首
 forwardAlbum=Ctrl+Alt+Up,Ctrl+Alt+Up,播放下张专辑

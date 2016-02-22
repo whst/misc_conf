@@ -93,7 +93,7 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
-LastNameSeen=Kindle
+LastNameSeen=WININSTALL
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc2]

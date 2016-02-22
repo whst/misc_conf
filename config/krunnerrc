@@ -2,10 +2,10 @@
 Offset=0.5
 
 [General]
-PastQueries=,fcitx,Okular
+PastQueries=,UXTerm,xterm,xdg-open /home/wang/Documents/pdf/sicp.pdf,xdg-open /home/wang/Documents/sicp.pdf,fcitx,Okular
 
 [Interface]
 Size=420,500
 
 [PlasmaRunnerManager]
-LaunchCounts=1 shell_fcitx,1 services_kde4-okular.desktop
+LaunchCounts=1 shell_fcitx,1 services_kde4-okular.desktop,1 shell_xdg-open /home/wang/Documents/sicp.pdf,1 services_debian-uxterm.desktop,1 shell_xdg-open /home/wang/Documents/pdf/sicp.pdf,1 services_debian-xterm.desktop

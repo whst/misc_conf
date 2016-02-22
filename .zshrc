@@ -49,7 +49,7 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(zsh-syntax-highlighting zsh-autosuggestions git sudo ls autojump colored-man-pages colorize extract zsh-256color)
+plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-256color colored-man-pages git sudo ls autojump colorize extract ubuntu vundle kate cp copydir copyfile)
 
 # User configuration
 
@@ -101,6 +101,7 @@ alias py3='python3'
 alias bpy='bpython';
 alias bpy3='bpython3'
 
+alias e='emacs'
 alias v='vim'
 alias gv='gvim'
 alias cls='printf "\033c"'
@@ -117,18 +118,6 @@ function o()
         shift 1
     done
 }
-
-alias ase='apt-cache search' #搜索包
-alias ain='sudo apt-get install' #安装包
-alias afi='sudo apt-get -f install' #修复安装
-alias aud='sudo apt-get update' #更新源
-alias aug='sudo apt-get upgrade' #更新已装软件
-alias aup='sudo apt-get update && sudo apt-get upgrade'
-alias arm='sudo apt-get remove' #删除软件
-alias apu='sudo apt-get purge' #删除软件和配置文件
-alias aar='sudo apt-get autoremove' #删除孤立的软件
-alias acn='sudo apt-get clean' #清理所有deb包
-alias aac='sudo apt-get autoclean' #清理已删除软件的deb包
 
 alias -s c='vim'
 alias -s cpp='vim'
@@ -154,25 +143,15 @@ if [[ "$TERM" == "dumb" ]]; then
 fi
 
 #路径别名
-hash -d DATA='/media/wang/DATA'
-hash -d MUSIC='/media/wang/DATA/music'
-hash -d MOVIE='/media/wang/TOSHIBA/_my_doc_/movie'
+hash -d DATA="/media/$USER/DATA"
+hash -d MUSIC="/media/$USER/DATA/music"
+hash -d MOVIE="/media/$USER/TOSHIBA/_my_doc_/movie"
 hash -d CODE="$HOME/Documents/code"
-hash -d DIARY='/media/wang/DATA/doc/diary'
-hash -d DOWNLOAD='/media/wang/DATA/download'
+hash -d DIARY="/media/$USER/DATA/doc/diary"
+hash -d DOWNLOAD="/media/$USER/DATA/download"
 hash -d PDF="$HOME/Documents/pdf"
 
 # Java Var
 export JAVA_HOME=/usr/lib/jvm/java-8-oracle
 export PATH=$JAVA_HOME/bin:$PATH
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
-
-# Enable autosuggestions automatically
-zle-line-init() {
-    zle autosuggest-start
-}
-zle -N zle-line-init
-
-# use ctrl+t to toggle autosuggestions (hopefully this wont be needed as
-# zsh-autosuggestions is designed to be unobtrusive)
-bindkey '^T' autosuggest-toggle
