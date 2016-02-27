@@ -92,9 +92,9 @@ LastSeenMounted=true
 EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
-Icon=drive-removable-media-usb
-LastNameSeen=WININSTALL
-LastSeenMounted=true
+Icon=drive-harddisk
+LastNameSeen=系统保留
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
 EverMounted=true

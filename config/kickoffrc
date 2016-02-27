@@ -8,4 +8,4 @@ loadAll=false
 pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
 
 [RecentlyUsed]
-Applications=geogebra.desktop,wxmaxima.desktop,kde4-juk.desktop,vmware-workstation.desktop,terminator.desktop
+Applications=wxmaxima.desktop,kde4-juk.desktop,terminator.desktop,kde4-ksnapshot.desktop,vmware-workstation.desktop

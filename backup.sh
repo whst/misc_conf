@@ -8,6 +8,7 @@ cp ~/.zshrc .
 cp ~/.bashrc .
 cp ~/.bash_aliases .
 cp ~/.ghci .
+cp ~/.tmux.conf .
 
 cp -R ~/.kde/share/apps/konsole .
 cp -R ~/.config/terminator .

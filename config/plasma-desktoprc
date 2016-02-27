@@ -35,7 +35,7 @@ performed=/usr/share/kde4/apps/plasma-desktop/updates/set-hidden-single-vd-pager
 
 [invokeAction]
 __file=
-actionId=1
+actionId=
 predicate=test-predicate-openinwindow.desktop
 
 [mount]

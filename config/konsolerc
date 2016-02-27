@@ -5,7 +5,7 @@ update_info=konsole.upd:2.9.0-global-options
 CurrentPalette=Forty Colors
 
 [Desktop Entry]
-DefaultProfile=Giant.profile
+DefaultProfile=My default.profile
 
 [Favorite Profiles]
 Favorites=Giant.profile,My default.profile
