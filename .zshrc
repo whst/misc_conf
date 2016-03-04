@@ -82,7 +82,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias zshconfig='vim ~/.zshrc && source ~/.zshrc'
+alias zshconfig='vim ~/.zshrc'
 alias vimconfig='vim ~/.vim/vimrc'
 alias en='export LANG=en_US.UTF-8'
 alias cn='export LANG=zh_CN.UTF-8'
@@ -104,7 +104,10 @@ alias bpy3='bpython3'
 alias e='emacs'
 alias v='vim'
 alias gv='gvim'
+alias tm='tmux'
 alias cls='printf "\033c"'
+alias xc='xclip -selection c'
+alias xv='xclip -selection c -o'
 alias sl='ls';  alias ks='ls'
 
 function o()
