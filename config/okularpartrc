@@ -5,8 +5,8 @@ update_info=okular.upd:sep_settings
 ShellOpenFileInTabs=true
 
 [Main View]
-ShowLeftPanel=false
-SplitterSizes=322,977
+ShowBottomBar=false
+SplitterSizes=323,1050
 
 [PageView]
 MouseMode=TextSelect

@@ -2,10 +2,10 @@
 Offset=0.5
 
 [General]
-PastQueries=,UXTerm,xterm,xdg-open /home/wang/Documents/pdf/sicp.pdf,xdg-open /home/wang/Documents/sicp.pdf,fcitx,Okular
+PastQueries=,/home/wang/Documents/bin/idea-IU-143.1821.5/bin/idea.sh,UXTerm,xterm,xdg-open /home/wang/Documents/pdf/sicp.pdf,xdg-open /home/wang/Documents/sicp.pdf,fcitx,Okular
 
 [Interface]
 Size=420,500
 
 [PlasmaRunnerManager]
-LaunchCounts=1 shell_fcitx,1 services_kde4-okular.desktop,1 shell_xdg-open /home/wang/Documents/sicp.pdf,1 services_debian-uxterm.desktop,1 shell_xdg-open /home/wang/Documents/pdf/sicp.pdf,1 services_debian-xterm.desktop
+LaunchCounts=1 shell_fcitx,7 shell_/home/wang/Documents/bin/idea-IU-143.1821.5/bin/idea.sh,1 services_kde4-okular.desktop,1 shell_xdg-open /home/wang/Documents/sicp.pdf,1 services_debian-uxterm.desktop,1 shell_xdg-open /home/wang/Documents/pdf/sicp.pdf,1 services_debian-xterm.desktop

@@ -53,7 +53,7 @@ plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-256color colored-man-pa
 
 # User configuration
 
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"
+export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -108,7 +108,8 @@ alias tm='tmux'
 alias cls='printf "\033c"'
 alias xc='xclip -selection c'
 alias xv='xclip -selection c -o'
-alias sl='ls';  alias ks='ls'
+alias sl='ls'
+alias ks='ls'
 
 function o()
 {

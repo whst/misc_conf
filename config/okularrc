@@ -3,15 +3,19 @@ FullScreen=false
 
 [KFileDialog Settings]
 Height 768=420
-Recent Files[$e]=龙书.pdf,/media/wang/DATA/temp/计算机程序的构造和解释（SICP中文第2版）.pdf,/media/wang/DATA/temp/sicp.pdf,$HOME/Documents/pdf/编译原理/龙书.pdf,$HOME/Documents/pdf/编译原理/中文无目录.pdf
-Recent URLs[$e]=$HOME/Documents/pdf/编译原理/,/media/wang/DATA/download/college_lessons/,/media/wang/DATA/temp/
+Recent Files[$e]=龙书.pdf,$HOME/Desktop/sicp_k2opt.pdf,/media/wang/DATA/temp/计算机程序的构造和解释（SICP中文第2版）.pdf,/media/wang/DATA/temp/sicp.pdf,$HOME/Documents/pdf/编译原理/龙书.pdf,$HOME/Documents/pdf/编译原理/中文无目录.pdf
+Recent URLs[$e]=$HOME/Documents/pdf/编译原理/,/media/wang/DATA/download/college_lessons/,/media/wang/DATA/temp/,$HOME/Documents/pdf/
 Width 1366=683
 
 [MainWindow]
-Height 768=486
-State=AAAA/wAAAAD9AAAAAAAAAwAAAAHQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Height 1080=1081
+Height 768=769
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAABaAAAANaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=768
+Width 1366=1440
+Width 1440=1441
+Width 1920=1921
 
 [Notification Messages]
 presentationInfo=false
@@ -21,21 +25,19 @@ Height 768=500
 Width 1366=600
 
 [Recent Files]
-File1[$e]=/media/wang/DATA/temp/计算机程序的构造和解释（SICP中文第2版）.pdf
-File2[$e]=$HOME/Documents/pdf/text/Haskell趣学指南.pdf
-File3[$e]=/media/wang/TOSHIBA/_my_doc_/pdf/scan/UNIX环境高级编程(第二版中文).pdf
-File4[$e]=$HOME/Downloads/sicp.pdf
-File5[$e]=$HOME/Documents/pdf/sicp.pdf
-File6[$e]=/media/wang/DATA/temp/sicp.pdf
-File7[$e]=$HOME/Desktop/SICP中文第2版.pdf
-File8[$e]=$HOME/Documents/pdf/tmux.pdf
-File9[$e]=$HOME/Desktop/sicp_k2opt.pdf
-Name1[$e]=计算机程序的构造和解释（SICP中文第2版）.pdf
-Name2[$e]=Haskell趣学指南.pdf
-Name3[$e]=UNIX环境高级编程(第二版中文).pdf
-Name4[$e]=sicp.pdf
-Name5[$e]=sicp.pdf
+File1[$e]=$HOME/Documents/pdf/鸟哥的Linux私房菜—基础篇下.pdf
+File2[$e]=$HOME/Documents/pdf/深入理解Linux内核(第三版).pdf
+File3[$e]=$HOME/Documents/pdf/算法精解-C语言描述.pdf
+File4[$e]=$HOME/Documents/pdf/Expert C Programming-Deep C Secrets.pdf
+File5[$e]=$HOME/Documents/code/c/unix/assginment2/rfind.c.pdf
+File6[$e]=$HOME/Documents/pdf/sicp.pdf
+File7[$e]=$HOME/Desktop/c++实验报告模板.pdf
+File8[$e]=$HOME/Documents/pdf/text/sicp.pdf
+Name1[$e]=鸟哥的Linux私房菜—基础篇下.pdf
+Name2[$e]=深入理解Linux内核(第三版).pdf
+Name3[$e]=算法精解-C语言描述.pdf
+Name4[$e]=Expert C Programming-Deep C Secrets.pdf
+Name5[$e]=rfind.c.pdf
 Name6[$e]=sicp.pdf
-Name7[$e]=SICP中文第2版.pdf
-Name8[$e]=tmux.pdf
-Name9[$e]=sicp_k2opt.pdf
+Name7[$e]=c++实验报告模板.pdf
+Name8[$e]=sicp.pdf

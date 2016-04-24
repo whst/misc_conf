@@ -19,5 +19,9 @@ ShowSizes=true
 ShowVersions=true
 
 [requirementsDialog]
+Height 1080=599
 Height 768=599
+Height 900=599
 Width 1366=600
+Width 1440=600
+Width 1920=600

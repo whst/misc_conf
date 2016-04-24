@@ -99,23 +99,31 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-Height 768=601
-State=AAAA/wAAAAD9AAAAAAAAA4oAAAIQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 1080=682
+Height 768=682
+State=AAAA/wAAAAD9AAAAAAAAA4oAAAJhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=906
+Width 1920=906
 
 [Recent Files]
 File1[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.h
+File10[$e]=$HOME/Downloads/LKH-2.0.7/SRC/INCLUDE/Delaunay.h
 File2[$e]=$HOME/Documents/code/c/ichttpd/README.md
 File3[$e]=/media/wang/DATA/doc/code/elelcalc/elelcalc/main.cpp
 File4[$e]=/media/wang/DATA/doc/code/qt/elelkalk/main.cpp
 File5[$e]=trash:/0-dulculator.cpp
 File6[$e]=$HOME/Documents/code/cpp/polynomial/poly.cpp
 File7[$e]=$HOME/Documents/code/qt/kiloHz/mainwindow.h
+File8[$e]=$HOME/Documents/code/cpp/huawei/HUAWEI Code Craft 2016/SDK-gcc/future_net/future_net.cpp
+File9[$e]=$HOME/Downloads/LKH-2.0.7/SRC/AddTourCandidates.c
 Name1[$e]=ichttpd.h
+Name10[$e]=Delaunay.h
 Name2[$e]=README.md
 Name3[$e]=main.cpp
 Name4[$e]=main.cpp
 Name5[$e]=0-dulculator.cpp
 Name6[$e]=poly.cpp
 Name7[$e]=mainwindow.h
+Name8[$e]=future_net.cpp
+Name9[$e]=AddTourCandidates.c

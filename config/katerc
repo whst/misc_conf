@@ -7,15 +7,15 @@ Encoding=UTF-8
 Highlighting=None
 Indentation Mode=normal
 Mode=
-URL=file:///home/wang/Desktop/Emacs.txt
+URL=file:///home/wang/Documents/code/c/devlang/crowbar_book_0_1/test/ftest.crb
 
 [Document 1]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=Java
+Highlighting=Makefile
 Indentation Mode=normal
-Mode=Java
-URL=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/HTMLSalesFormatter.java
+Mode=Makefile
+URL=file:///home/wang/Documents/code/cpp/huawei/HUAWEI Code Craft 2016/SDK-gcc/build/Makefile
 
 [Document 2]
 Bookmarks=
@@ -85,10 +85,12 @@ Show Status Bar=true
 Startup Session=manual
 
 [KFileDialog Settings]
+Height 1080=420
 Height 768=420
-Recent Files[$e]=$HOME/Desktop/Emacs.txt
-Recent URLs[$e]=$HOME/Downloads/,$HOME/Documents/code/python/MarkCode/
+Recent Files[$e]=$HOME/Desktop/Emacs.txt,$HOME/Documents/code/devlang/crowbar_book_0_1/error_message_not_gcc.c,$HOME/Documents/code/devlang/crowbar_book_0_1/error_message.c
+Recent URLs[$e]=$HOME/Downloads/,$HOME/Documents/code/python/MarkCode/,$HOME/Documents/code/devlang/crowbar_book_0_1/
 Width 1366=683
+Width 1920=683
 
 [Kate Document Defaults]
 Allow End of Line Detection=true
@@ -198,7 +200,7 @@ Scroll Bar Mini Map=false
 Scroll Bar Mini Map All=false
 Scroll Bar Mini Map Width=60
 Scroll Past End=false
-Search Pattern History=read_req_he,get,open,cgi,getc,putc,make,66.102.12.36|66.102.12.26|66.102.12.10|66.102.12.101|64.233.162.82|66.102.12.125|66.102.12.5|66.102.12.39|66.102.12.9|66.102.12.50|66.102.12.24|66.102.12.115|66.102.12.114|66.102.12.1|64.233.162.86|66.102.12.31|66.102.12.59|66.102.12.23|66.102.12.118|66.102.12.3
+Search Pattern History=null,read_req_he,get,open,cgi,getc,putc,make,66.102.12.36|66.102.12.26|66.102.12.10|66.102.12.101|64.233.162.82|66.102.12.125|66.102.12.5|66.102.12.39|66.102.12.9|66.102.12.50|66.102.12.24|66.102.12.115|66.102.12.114|66.102.12.1|64.233.162.86|66.102.12.31|66.102.12.59|66.102.12.23|66.102.12.118|66.102.12.3
 Search/Replace Flags=140
 Show Scrollbars=0
 Smart Copy Cut=false
@@ -211,19 +213,22 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-Height 768=467
-State=AAAA/wAAAAD9AAAAAAAAA4oAAAGfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Height 1080=768
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=906
+Width 1366=1367
+Width 1920=1366
 
 [MainWindow0]
 Characters Count Visible=false
 Cursor Position Visible=true
 Document Name Visible=true
 Encoding Visible=true
-Height 768=467
+Height 1080=768
+Height 768=769
 Insertion Mode Visible=true
-Kate-MDI-H-Splitter=200,878,200
+Kate-MDI-H-Splitter=200,1338,200
 Kate-MDI-Sidebar-0-Splitter=0,0
 Kate-MDI-Sidebar-3-Splitter=0,0
 Kate-MDI-Sidebar-Style=2
@@ -243,25 +248,28 @@ Kate-MDI-ToolView-kateprojectinfo-Persistent=false
 Kate-MDI-ToolView-kateprojectinfo-Position=3
 Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
 Kate-MDI-ToolView-kateprojectinfo-Visible=false
-Kate-MDI-V-Splitter=150,389,200
+Kate-MDI-V-Splitter=150,644,200
 Selection Mode Visible=true
-State=AAAA/wAAAAD9AAAAAAAAA4oAAAGfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
-Width 1366=906
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1366=1367
+Width 1920=1366
 
 [MainWindow0 Settings]
-Height 768=467
-State=AAAA/wAAAAD9AAAAAAAAA4oAAAGfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
-Width 1366=906
-WindowState=8
+Height 1080=768
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1366=1367
+Width 1920=1366
+WindowState=10
 
 [MainWindow0-Splitter 0]
-Sizes=878
+Sizes=1338
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/wang/Desktop/Emacs.txt
+Active View=file:///home/wang/Documents/code/c/devlang/crowbar_book_0_1/test/ftest.crb
 Count=1
-View 0=file:///home/wang/Desktop/Emacs.txt
-View 1=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/PlainTextSalesFormatter.java
+View 0=file:///home/wang/Documents/code/c/devlang/crowbar_book_0_1/test/ftest.crb
+View 1=file:///home/wang/Documents/code/cpp/huawei/HUAWEI Code Craft 2016/SDK-gcc/build/Makefile
 View 2=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/XMLSalesFormatter.java
 View 3=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/GourmetCoffee.java
 View 4=file:///home/wang/Desktop/javazuoye/Ex5/GourmetCoffee.java
@@ -390,6 +398,12 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Desktop/tmux.conf]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Desktop/tmux.txt]
 CursorColumn=0
 CursorLine=0
@@ -441,6 +455,60 @@ ViMarks=
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/algorithm/kmp/in.txt]
 CursorColumn=17
 CursorLine=10
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/devlang/crowbar_book_0_1/test/ftest.crb]
+CursorColumn=12
+CursorLine=7
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/devlang/crowbar_book_0_1/y.output]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/est/communi/client.c]
+CursorColumn=0
+CursorLine=17
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/est/communi/server.c]
+CursorColumn=1
+CursorLine=47
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/est/my/receiver/receiver.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/est/my/sender.c]
+CursorColumn=2
+CursorLine=1
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/est/my/sender/sender.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/est/new/client.c]
+CursorColumn=19
+CursorLine=2
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/est/new/server.c]
+CursorColumn=1
+CursorLine=12
 JumpList=
 ViMarks=
 
@@ -534,6 +602,18 @@ CursorLine=10
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/temp/div2/star.c]
+CursorColumn=1
+CursorLine=17
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/temp/div2/volume.cpp]
+CursorColumn=0
+CursorLine=5
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/temp/duff/main.c]
 CursorColumn=0
 CursorLine=3
@@ -564,6 +644,24 @@ CursorLine=2
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/unix/Makefile]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/unix/assginment1/tcp.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/unix/assginment1/tcpm.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/dulculator/Makefile]
 CursorColumn=14
 CursorLine=7
@@ -582,15 +680,93 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/huawei/HUAWEI Code Craft 2016/SDK-gcc/build/Makefile]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/huawei/HUAWEI Code Craft 2016/SDK-gcc/readme.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/huawei/HUAWEI Code Craft 2016/readme.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/huawei/PostgreSQL/􏸽􏹌􏸳􏹌􏹖􏹘􏹒􏸪􏹋􏸵􏹃􏹷􏸼􏸰􏸸􏹼􏹐􏹂􏹁􏸴􏸽􏹓􏸵􏹣􏸻􏹷􏹕􏹢􏸸􏹶􏹎􏹄􏸱􏸾.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/huawei/batch.download.php]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/huawei/完整版（pdf+代码）/win_sjis/calc/mycalc/make.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/temp/illumin.cpp]
+CursorColumn=1
+CursorLine=98
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/temp/main.c]
 CursorColumn=51
 CursorLine=2
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/devlang/crowbar_book_0_1/error_message.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/devlang/crowbar_book_0_1/error_message_not_gcc.c]
+CursorColumn=0
+CursorLine=32
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/devlang/crowbar_book_0_1/memory/memory.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/devlang/crowbar_book_0_1/memory/storage.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/gtk+/easy_gtk+/main.c]
 CursorColumn=0
 CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/java/jukulator/src/com/company/Main.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/java/kyokulator/src/com/company/Main.java]
+CursorColumn=0
+CursorLine=184
 JumpList=
 ViMarks=
 
@@ -655,6 +831,60 @@ JumpList=
 ViMarks=
 
 [MainWindow0-ViewSpace 0 file:///home/wang/Downloads/ACKMP/Matcher.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/LKH-2.0.7/README]
+CursorColumn=67
+CursorLine=21
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/LKH-2.0.7/SRC/Activate.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/LKH-2.0.7/SRC/AddCandidate.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/LKH-2.0.7/SRC/AddExtraCandidates.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/LKH-2.0.7/SRC/AddTourCandidates.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/LKH-2.0.7/SRC/Best4OptMove.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/LKH-2.0.7/SRC/WriteTour.c]
+CursorColumn=15
+CursorLine=20
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/LKH-2.0.7/SRC/printff.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/LKH-2.0.7/pr2392.tsp]
 CursorColumn=0
 CursorLine=0
 JumpList=
@@ -751,6 +981,18 @@ JumpList=
 ViMarks=
 
 [MainWindow0-ViewSpace 0 file:///home/wang/Downloads/「fcitx－搜狗」合并词库（2012-06-17）/词库清单.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/􏸰􏹙􏸶􏹈􏹐􏸡􏸺􏹗􏸹􏹒􏸽􏹓􏹋􏸵􏹃􏹷.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/􏹐􏸡􏸺􏹗􏸵􏸥􏹗􏹖for􏸰􏹙􏸶􏹈􏹄􏸴􏹖􏸸􏸼􏹼􏹅􏹌.ini]
 CursorColumn=0
 CursorLine=0
 JumpList=
@@ -888,6 +1130,12 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///media/wang/TOSHIBA/_my_doc_/TV/seed/IPZ- 462/IPZ-462.srt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///media/wang/TOSHIBA/_my_doc_/backup/windows/2015-03-01/temp/c4-master/c4.c]
 CursorColumn=0
 CursorLine=0
@@ -909,6 +1157,12 @@ ViMarks=
 [MainWindow0-ViewSpace 0 file:///media/wang/TOSHIBA/工作簿1.csv]
 CursorColumn=0
 CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/UUI/jukulator/src/com/company/Main.java]
+CursorColumn=27
+CursorLine=142
 JumpList=
 ViMarks=
 
@@ -993,24 +1247,10 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Templates/Shell脚本.sh
-File2[$e]=$HOME/Desktop/javazuoye/Ex5/GourmetCoffee.java
-File3[$e]=/media/wang/DATA/music/Teresa/つぐない.lrc
-File4[$e]=/media/wang/DATA/music/Teresa/スキャンダル.lrc
-File5[$e]=/media/wang/DATA/music/Teresa/ミッドナイト.レクイエム.lrc
-File6[$e]=$HOME/Documents/code/c/ichttpd/ichttpd.c
-File7[$e]=$HOME/Documents/bin/clion-1.2.4/Install-Linux-tar.txt
-File8[$e]=/media/wang/TOSHIBA/_my_doc_/K2PDFopt选项说明.txt
-File9[$e]=$HOME/Desktop/Emacs.txt
-Name1[$e]=Shell脚本.sh
-Name2[$e]=GourmetCoffee.java
-Name3[$e]=つぐない.lrc
-Name4[$e]=スキャンダル.lrc
-Name5[$e]=ミッドナイト.レクイエム.lrc
-Name6[$e]=ichttpd.c
-Name7[$e]=Install-Linux-tar.txt
-Name8[$e]=K2PDFopt选项说明.txt
-Name9[$e]=Emacs.txt
+File1[$e]=$HOME/Documents/code/c/devlang/crowbar_book_0_1/y.output
+File2[$e]=$HOME/Documents/code/c/devlang/crowbar_book_0_1/test/ftest.crb
+Name1[$e]=y.output
+Name2[$e]=ftest.crb
 
 [TipOfDay]
 RunOnStart=false

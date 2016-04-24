@@ -5,16 +5,20 @@ update_info=konsole.upd:2.9.0-global-options
 CurrentPalette=Forty Colors
 
 [Desktop Entry]
-DefaultProfile=My default.profile
+DefaultProfile=Giant.profile
 
 [Favorite Profiles]
 Favorites=Giant.profile,My default.profile
 
 [MainWindow]
+Height 1080=768
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAK7AAAABAAAAAQAAAAIAAAACPwAAAAA
+Height 900=357
+State=AAAA/wAAAAD9AAAAAAAABVYAAALqAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
+Width 1440=1108
+Width 1920=1366
 
 [TabBar]
 ShowQuickButtons=true

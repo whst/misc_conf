@@ -17,12 +17,4 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/wang/Downloads">
-  <title>Downloads</title>
-  <info>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="inode-directory"/>
-   </metadata>
-  </info>
- </bookmark>
 </xbel>

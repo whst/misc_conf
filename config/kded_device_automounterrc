@@ -8,16 +8,22 @@ LastSeenMounted=true
 EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
-Icon=drive-removable-media-usb
-LastNameSeen=TOSHIBA
-LastSeenMounted=true
+Icon=drive-harddisk
+LastNameSeen=系统保留
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda2]
 EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
+Icon=drive-harddisk
+LastNameSeen=OS
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda4]
+EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=500.0 MiB 可卸载媒体
+LastNameSeen=Linux Mint
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda5]
@@ -47,9 +53,9 @@ LastSeenMounted=true
 EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
-Icon=drive-harddisk
-LastNameSeen=系统保留
-LastSeenMounted=false
+Icon=drive-removable-media-usb
+LastNameSeen=TOSHIBA
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb2]
 EverMounted=true
@@ -62,22 +68,22 @@ LastSeenMounted=false
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb4]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=Debian 8.2.
-LastSeenMounted=true
+LastNameSeen=Linux Mint
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb5]
 ForceAttachAutomount=false
 ForceLoginAutomount=false
-Icon=drive-harddisk
-LastNameSeen=APPS
+Icon=drive-removable-media-usb
+LastNameSeen=47.7 GiB 可卸载媒体
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb6]
 EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
-Icon=drive-harddisk
-LastNameSeen=DATA
+Icon=drive-removable-media-usb
+LastNameSeen=30.4 GiB 可卸载媒体
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb7]
@@ -105,7 +111,7 @@ LastSeenMounted=false
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc4]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=DEBIAN
+LastNameSeen=Linux Mint
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc5]
@@ -134,6 +140,12 @@ LastSeenMounted=true
 [Devices][/org/freedesktop/UDisks2/block_devices/sdd2]
 Icon=drive-removable-media-usb
 LastNameSeen=500.0 MiB 可卸载媒体
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdd4]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=Debian 8.3.0 amd64 1
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sde1]

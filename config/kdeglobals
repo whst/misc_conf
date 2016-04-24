@@ -96,7 +96,7 @@ ForegroundVisited=69,40,134
 
 [DirSelect Dialog]
 DirSelectDialog Size=788,512
-History Items[$e]=file://$HOME/Public,file://$HOME/Documents/bin,file:///media/wang/DATA/music,file://$HOME/Pictures/anime,file://$HOME/Pictures/wallpapers,file:///media/wang/DATA/picture/background/,file://$HOME/Pictures/MBuntu-Wallpapers
+History Items[$e]=file://$HOME/Pictures/MBuntu-Wallpapers,file://$HOME/Public,file://$HOME/Documents/bin,file:///media/wang/DATA/music,file://$HOME/Pictures/anime,file://$HOME/Pictures/wallpapers,file:///media/wang/DATA/picture/background/
 
 [General]
 BrowserApplication=google-chrome.desktop
@@ -106,10 +106,16 @@ shadeSortColumn=true
 widgetStyle=oxygen
 
 [KDE]
+AutoSelectDelay=-1
+ChangeCursor=true
+DoubleClickInterval=400
 ShowDeleteCommand=false
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
 SingleClick=true
+StartDragDist=4
+StartDragTime=500
+WheelScrollLines=3
 contrast=7
 
 [KDE-Global GUI Settings]
@@ -130,7 +136,7 @@ Show hidden files=false
 Sort by=Date
 Sort directories first=true
 Sort reversed=false
-Speedbar Width=126
+Speedbar Width=134
 View Style=Simple
 listViewIconSize=17
 
