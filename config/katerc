@@ -4,10 +4,10 @@ update_info=kate-2.4.upd:kate2.4
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=None
+Highlighting=Texinfo
 Indentation Mode=normal
-Mode=
-URL=file:///home/wang/Documents/code/c/devlang/crowbar_book_0_1/test/ftest.crb
+Mode=Texinfo
+URL=file:///home/wang/Downloads/sicp.texi
 
 [Document 1]
 Bookmarks=
@@ -87,8 +87,8 @@ Startup Session=manual
 [KFileDialog Settings]
 Height 1080=420
 Height 768=420
-Recent Files[$e]=$HOME/Desktop/Emacs.txt,$HOME/Documents/code/devlang/crowbar_book_0_1/error_message_not_gcc.c,$HOME/Documents/code/devlang/crowbar_book_0_1/error_message.c
-Recent URLs[$e]=$HOME/Downloads/,$HOME/Documents/code/python/MarkCode/,$HOME/Documents/code/devlang/crowbar_book_0_1/
+Recent Files[$e]=$HOME/Desktop/Emacs.txt,$HOME/Documents/code/c/devlang/crowbar_book_0_2/test/cus.txt,$HOME/Documents/code/c/devlang/crowbar_book_0_2/error_message.c,$HOME/Documents/code/c/devlang/crowbar_book_0_2/error_message_not_gcc.c
+Recent URLs[$e]=$HOME/Downloads/,$HOME/Documents/code/python/MarkCode/,$HOME/Documents/code/c/devlang/crowbar_book_0_2/,$HOME/Documents/code/c/devlang/crowbar_book_0_2/test/
 Width 1366=683
 Width 1920=683
 
@@ -116,7 +116,7 @@ PageUp/PageDown Moves Cursor=false
 Remove Spaces=0
 ReplaceTabsDyn=false
 Search Dir Config Depth=9
-Show Spaces=false
+Show Spaces=true
 Show Tabs=true
 Smart Home=true
 Tab Handling=2
@@ -156,7 +156,7 @@ katexmltoolsplugin=false
 [Kate Renderer Defaults]
 Animate Bracket Matching=false
 Schema=Normal
-Show Indentation Lines=false
+Show Indentation Lines=true
 Show Whole Bracket Expression=false
 Word Wrap Marker=false
 
@@ -194,13 +194,13 @@ Line Modification=false
 Line Numbers=false
 Maximum Search History Size=100
 Persistent Selection=false
-Replacement Text History=66.102.12.104|66.102.12.107|66.102.12.119|64.233.162.83|66.102.12.127|66.102.12.126|64.233.191.239|66.102.12.109|64.233.162.87|66.102.12.102|66.102.12.112|66.102.12.122|66.102.12.121|66.102.12.108|64.233.162.84|66.102.12.105|66.102.12.36|66.102.12.26|66.102.12.10|66.102.12.101|64.233.162.82|66.102.12.125|66.102.12.5|66.102.12.39|66.102.12.9|66.102.12.50|66.102.12.24|66.102.12.115|66.102.12.114|66.102.12.1|64.233.162.86|66.102.12.31|66.102.12.59|66.102.12.23|66.102.12.118|66.102.12.3
+Replacement Text History=Dec,Set,66.102.12.104|66.102.12.107|66.102.12.119|64.233.162.83|66.102.12.127|66.102.12.126|64.233.191.239|66.102.12.109|64.233.162.87|66.102.12.102|66.102.12.112|66.102.12.122|66.102.12.121|66.102.12.108|64.233.162.84|66.102.12.105|66.102.12.36|66.102.12.26|66.102.12.10|66.102.12.101|64.233.162.82|66.102.12.125|66.102.12.5|66.102.12.39|66.102.12.9|66.102.12.50|66.102.12.24|66.102.12.115|66.102.12.114|66.102.12.1|64.233.162.86|66.102.12.31|66.102.12.59|66.102.12.23|66.102.12.118|66.102.12.3
 Scroll Bar Marks=false
 Scroll Bar Mini Map=false
 Scroll Bar Mini Map All=false
 Scroll Bar Mini Map Width=60
 Scroll Past End=false
-Search Pattern History=null,read_req_he,get,open,cgi,getc,putc,make,66.102.12.36|66.102.12.26|66.102.12.10|66.102.12.101|64.233.162.82|66.102.12.125|66.102.12.5|66.102.12.39|66.102.12.9|66.102.12.50|66.102.12.24|66.102.12.115|66.102.12.114|66.102.12.1|64.233.162.86|66.102.12.31|66.102.12.59|66.102.12.23|66.102.12.118|66.102.12.3
+Search Pattern History=circu,Decl,Asgm,null,read_req_he,get,open,cgi,getc,putc,make,66.102.12.36|66.102.12.26|66.102.12.10|66.102.12.101|64.233.162.82|66.102.12.125|66.102.12.5|66.102.12.39|66.102.12.9|66.102.12.50|66.102.12.24|66.102.12.115|66.102.12.114|66.102.12.1|64.233.162.86|66.102.12.31|66.102.12.59|66.102.12.23|66.102.12.118|66.102.12.3
 Search/Replace Flags=140
 Show Scrollbars=0
 Smart Copy Cut=false
@@ -214,10 +214,12 @@ Word Completion Remove Tail=true
 
 [MainWindow]
 Height 1080=768
-Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Height 768=722
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAABVYAAALMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=1367
+Width 1366=1366
+Width 1440=1441
 Width 1920=1366
 
 [MainWindow0]
@@ -225,8 +227,9 @@ Characters Count Visible=false
 Cursor Position Visible=true
 Document Name Visible=true
 Encoding Visible=true
-Height 1080=768
+Height 1080=1081
 Height 768=769
+Height 900=901
 Insertion Mode Visible=true
 Kate-MDI-H-Splitter=200,1338,200
 Kate-MDI-Sidebar-0-Splitter=0,0
@@ -252,23 +255,26 @@ Kate-MDI-V-Splitter=150,644,200
 Selection Mode Visible=true
 State=AAAA/wAAAAD9AAAAAAAABVYAAAKeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 Width 1366=1367
-Width 1920=1366
+Width 1440=1441
+Width 1920=1921
 
 [MainWindow0 Settings]
-Height 1080=768
+Height 1080=1081
 Height 768=769
+Height 900=901
 State=AAAA/wAAAAD9AAAAAAAABVYAAAKeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 Width 1366=1367
-Width 1920=1366
+Width 1440=1441
+Width 1920=1921
 WindowState=10
 
 [MainWindow0-Splitter 0]
 Sizes=1338
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/wang/Documents/code/c/devlang/crowbar_book_0_1/test/ftest.crb
+Active View=file:///home/wang/Downloads/sicp.texi
 Count=1
-View 0=file:///home/wang/Documents/code/c/devlang/crowbar_book_0_1/test/ftest.crb
+View 0=file:///home/wang/Downloads/sicp.texi
 View 1=file:///home/wang/Documents/code/cpp/huawei/HUAWEI Code Craft 2016/SDK-gcc/build/Makefile
 View 2=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/XMLSalesFormatter.java
 View 3=file:///home/wang/Desktop/Java课件/卓越二班_2014302580343_王旭东_第5次作业/Ex5/GourmetCoffee.java
@@ -287,6 +293,18 @@ ViMarks=
 [MainWindow0-ViewSpace 0 file:///home/wang/.config/fcitx/config]
 CursorColumn=0
 CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/.emacs.d/init.e]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/.emacs.d/init.el]
+CursorColumn=0
+CursorLine=29
 JumpList=
 ViMarks=
 
@@ -434,6 +452,12 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/bin/clion-2016.2.2/Install-Linux-tar.txt]
+CursorColumn=37
+CursorLine=33
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/bin/goagent-v3.2.0/local/proxy.ini]
 CursorColumn=449
 CursorLine=32
@@ -464,7 +488,31 @@ CursorLine=7
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/devlang/crowbar_book_0_1/test/haha.crb]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/devlang/crowbar_book_0_1/y.output]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/devlang/crowbar_book_0_2/error_message.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/devlang/crowbar_book_0_2/error_message_not_gcc.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/devlang/crowbar_book_0_2/test/cus.txt]
 CursorColumn=0
 CursorLine=0
 JumpList=
@@ -509,6 +557,12 @@ ViMarks=
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/est/new/server.c]
 CursorColumn=1
 CursorLine=12
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/c/hiho/deldup.c]
+CursorColumn=0
+CursorLine=0
 JumpList=
 ViMarks=
 
@@ -716,6 +770,12 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/temp/a.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/cpp/temp/illumin.cpp]
 CursorColumn=1
 CursorLine=98
@@ -766,7 +826,7 @@ ViMarks=
 
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/code/java/kyokulator/src/com/company/Main.java]
 CursorColumn=0
-CursorLine=184
+CursorLine=0
 JumpList=
 ViMarks=
 
@@ -807,6 +867,12 @@ JumpList=
 ViMarks=
 
 [MainWindow0-ViewSpace 0 file:///home/wang/Documents/office/Linux C 相关.txt.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Documents/office/openGL.txt]
 CursorColumn=0
 CursorLine=0
 JumpList=
@@ -932,6 +998,12 @@ CursorLine=1406
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/gcc-5.4.0/gcc/convert.c]
+CursorColumn=22
+CursorLine=25
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Downloads/hosts]
 CursorColumn=11
 CursorLine=10937
@@ -974,6 +1046,12 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/sicp.texi]
+CursorColumn=0
+CursorLine=15936
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/wang/Downloads/tinyhttpd-0.1.0/simpleclient.c]
 CursorColumn=0
 CursorLine=0
@@ -981,6 +1059,12 @@ JumpList=
 ViMarks=
 
 [MainWindow0-ViewSpace 0 file:///home/wang/Downloads/「fcitx－搜狗」合并词库（2012-06-17）/词库清单.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/wang/Downloads/小鹤readme.txt]
 CursorColumn=0
 CursorLine=0
 JumpList=
@@ -1022,6 +1106,24 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/wang/tmp.c]
+CursorColumn=8
+CursorLine=1
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/8ca0d115-9a34-4936-9a34-3e7e8213d96c/wang/Documents/code/sicp/display-tree.scm]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/8ca0d115-9a34-4936-9a34-3e7e8213d96c/wang/assign/Report.tex]
+CursorColumn=32
+CursorLine=236
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/assignment/jukebox/work/HtmlAnchor.java]
 CursorColumn=0
 CursorLine=0
@@ -1058,6 +1160,12 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/plain_text/NamatsuNo Kajitsu.txt]
+CursorColumn=2
+CursorLine=28
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///media/wang/DATA/doc/plain_text/Usr&Passwd.txt]
 CursorColumn=0
 CursorLine=0
@@ -1083,6 +1191,12 @@ JumpList=
 ViMarks=
 
 [MainWindow0-ViewSpace 0 file:///media/wang/DATA/music/Teresa/ミッドナイト.レクイエム.lrc]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/wang/DATA/temp/calc2_grammar.txt]
 CursorColumn=0
 CursorLine=0
 JumpList=
@@ -1241,16 +1355,32 @@ HiddenFiles=false
 MatchCase=false
 Place=1
 Recursive=true
-Search=—,volatile
+Search=Asgn,—,volatile
 SearchDiskFiles=
 SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Documents/code/c/devlang/crowbar_book_0_1/y.output
-File2[$e]=$HOME/Documents/code/c/devlang/crowbar_book_0_1/test/ftest.crb
-Name1[$e]=y.output
-Name2[$e]=ftest.crb
+File1[$e]=$HOME/Documents/code/c/hiho/deldup.c
+File10[$e]=$HOME/Downloads/sicp.texi
+File2[$e]=$HOME/Downloads/gcc-5.4.0/gcc/convert.c
+File3[$e]=$HOME/Documents/bin/clion-2016.2.2/Install-Linux-tar.txt
+File4[$e]=$HOME/Documents/code/c/devlang/crowbar_book_0_1/test/haha.crb
+File5[$e]=$HOME/Documents/code/c/devlang/crowbar_book_0_2/error_message_not_gcc.c
+File6[$e]=$HOME/Documents/code/c/devlang/crowbar_book_0_2/error_message.c
+File7[$e]=$HOME/Documents/code/c/devlang/crowbar_book_0_2/test/cus.txt
+File8[$e]=/media/wang/8ca0d115-9a34-4936-9a34-3e7e8213d96c/wang/assign/Report.tex
+File9[$e]=$HOME/Documents/code/cpp/temp/a.cpp
+Name1[$e]=deldup.c
+Name10[$e]=sicp.texi
+Name2[$e]=convert.c
+Name3[$e]=Install-Linux-tar.txt
+Name4[$e]=haha.crb
+Name5[$e]=error_message_not_gcc.c
+Name6[$e]=error_message.c
+Name7[$e]=cus.txt
+Name8[$e]=Report.tex
+Name9[$e]=a.cpp
 
 [TipOfDay]
 RunOnStart=false

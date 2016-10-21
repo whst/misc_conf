@@ -7,7 +7,7 @@ RepeatRate=25
 
 [Mouse]
 Acceleration=2
-MouseButtonMapping=LeftHanded
+MouseButtonMapping=RightHanded
 ReverseScrollPolarity=false
 Threshold=4
 cursorSize=0

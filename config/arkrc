@@ -8,23 +8,23 @@ Width 1366=683
 
 [MainWindow]
 Height 1080=480
-Height 768=480
+Height 900=480
 State=AAAA/wAAAAD9AAAAAAAAAoAAAAGVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=640
+Width 1440=640
 Width 1920=640
 splitterSizes=425,212
 
 [Recent Files]
 File1[$e]=trash:/0-「fcitx－搜狗」合并词库（2012-06-17）.7z
-File2[$e]=$HOME/Documents/code/cpp/huawei/完整版（pdf+代码）/全书代码win_sjis_zh_20131212.zip
-File3[$e]=$HOME/Downloads/Trac.tar.gz
-File4[$e]=$HOME/Downloads/win_sjis_zh_20131212.zip
+File2[$e]=/media/wang/TOSHIBA/_my_doc_/movie/Microsoft.DesignPattern.01.zip
+File3[$e]=$HOME/Downloads/win_sjis_zh_20131212.zip
+File4[$e]=/media/wang/8ca0d115-9a34-4936-9a34-3e7e8213d96c/wang/Calibre Library/Qian Qiao He Mi , Liu Zhuo , Xu Qian , Wu Ya Ming/Zi Zhi Bian Cheng Yu Yan (2)/Zi Zhi Bian Cheng Yu Yan - Qian Qiao He Mi , Liu Zhuo , Xu Qian , Wu .epub
 Name1[$e]=0-「fcitx－搜狗」合并词库（2012-06-17）.7z
-Name2[$e]=全书代码win_sjis_zh_20131212.zip
-Name3[$e]=Trac.tar.gz
-Name4[$e]=win_sjis_zh_20131212.zip
+Name2[$e]=Microsoft.DesignPattern.01.zip
+Name3[$e]=win_sjis_zh_20131212.zip
+Name4[$e]=Zi Zhi Bian Cheng Yu Yan - Qian Qiao He Mi , Liu Zhuo , Xu Qian , Wu .epub
 
 [Viewer]
-Height 768=721
+Height 768=722
 Width 1366=1366

@@ -8,17 +8,17 @@ CurrentPalette=Forty Colors
 DefaultProfile=Giant.profile
 
 [Favorite Profiles]
-Favorites=Giant.profile,My default.profile
+Favorites=Giant.profile,Roboto Mono.profile,My default.profile
 
 [MainWindow]
-Height 1080=768
-Height 768=769
-Height 900=357
-State=AAAA/wAAAAD9AAAAAAAABVYAAALqAAAABAAAAAQAAAAIAAAACPwAAAAA
+Height 1080=467
+Height 768=467
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAAA4oAAAG9AAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1366=1367
-Width 1440=1108
-Width 1920=1366
+Width 1366=906
+Width 1440=1441
+Width 1920=906
 
 [TabBar]
 ShowQuickButtons=true

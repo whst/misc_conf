@@ -6,7 +6,9 @@ ShellOpenFileInTabs=true
 
 [Main View]
 ShowBottomBar=false
-SplitterSizes=323,1050
+ShowLeftPanel=false
+SplitterSizes=305,994
 
 [PageView]
 MouseMode=TextSelect
+TrimMargins=true

@@ -1,16 +1,16 @@
 [GENERAL]
-delay=0
-filename[$e]=file://$HOME/Pictures/shot/simp_path1.png
+delay=1
+filename[$e]=file://$HOME/Pictures/shot/circuit1.png
 includeDecorations=true
 includePointer=false
-mode=2
+mode=1
 
 [KFileDialog Settings]
 Height 1080=420
 Height 768=420
 Height 900=437
-Recent Files[$e]=$HOME/Pictures/shot/tmux.png,$HOME/Pictures/shot/simp_path.png,$HOME/Pictures/shot/lkh.png,$HOME/Pictures/shot/scheme-accumulate.png,$HOME/Pictures/shot/课表.png,$HOME/Pictures/shot/abc.png,$HOME/.vim/gitfiles/tab_completion.png,$HOME/Pictures/shot/约瑟夫.png
-Recent URLs[$e]=$HOME/.vim/gitfiles/,$HOME/Pictures/,$HOME/Pictures/shot/,$HOME/Documents/code/iss_homework/data_structure/7_qsort/,$HOME/Documents/code/iss_homework/data_structure/5_postorder-iterator/,$HOME/Documents/code/
+Recent Files[$e]=$HOME/Pictures/shot/tmux.png,$HOME/Pictures/shot/circuit.png,$HOME/Pictures/shot/font.png,$HOME/Pictures/shot/001.png,$HOME/Pictures/shot/whu.png,$HOME/Pictures/shot/ycm.png,$HOME/Pictures/shot/gccStd.png,$HOME/Pictures/shot/dress.png,$HOME/Pictures/shot/ls.png,$HOME/Pictures/shot/oil.png,$HOME/Pictures/shot/codewar.png,$HOME/Pictures/shot/123456.png,$HOME/Pictures/shot/c++11.png
+Recent URLs[$e]=$HOME/Pictures/,$HOME/Pictures/shot/,$HOME/Documents/code/iss_homework/data_structure/7_qsort/,$HOME/Documents/code/iss_homework/data_structure/5_postorder-iterator/,$HOME/Documents/code/
 Width 1366=683
 Width 1440=720
 Width 1920=683

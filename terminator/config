@@ -9,7 +9,7 @@
     background_type = transparent
     background_image = None
     scroll_on_output = False
-    font = DejaVu Sans Mono for Powerline 11
+    font = Roboto Mono for Powerline 11
     cursor_blink = False
   [[giant]]
     use_system_font = False

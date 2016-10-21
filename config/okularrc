@@ -2,20 +2,22 @@
 FullScreen=false
 
 [KFileDialog Settings]
+Height 1080=420
 Height 768=420
-Recent Files[$e]=龙书.pdf,$HOME/Desktop/sicp_k2opt.pdf,/media/wang/DATA/temp/计算机程序的构造和解释（SICP中文第2版）.pdf,/media/wang/DATA/temp/sicp.pdf,$HOME/Documents/pdf/编译原理/龙书.pdf,$HOME/Documents/pdf/编译原理/中文无目录.pdf
-Recent URLs[$e]=$HOME/Documents/pdf/编译原理/,/media/wang/DATA/download/college_lessons/,/media/wang/DATA/temp/,$HOME/Documents/pdf/
+Recent Files[$e]=$HOME/Desktop/table 1.jpg,$HOME/Documents/pdf/编译原理/龙书.pdf,$HOME/Documents/pdf/编译原理/中文无目录.pdf
+Recent URLs[$e]=$HOME/Documents/pdf/编译原理/,/media/wang/DATA/temp/,$HOME/Documents/pdf/,/media/wang/DATA/download/MobileFile/
 Width 1366=683
+Width 1920=683
 
 [MainWindow]
 Height 1080=1081
 Height 768=769
 Height 900=901
-State=AAAA/wAAAAD9AAAAAAAABaAAAANaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAqcAAAKjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=1440
+Width 1366=679
 Width 1440=1441
-Width 1920=1921
+Width 1920=679
 
 [Notification Messages]
 presentationInfo=false
@@ -25,19 +27,21 @@ Height 768=500
 Width 1366=600
 
 [Recent Files]
-File1[$e]=$HOME/Documents/pdf/鸟哥的Linux私房菜—基础篇下.pdf
-File2[$e]=$HOME/Documents/pdf/深入理解Linux内核(第三版).pdf
-File3[$e]=$HOME/Documents/pdf/算法精解-C语言描述.pdf
-File4[$e]=$HOME/Documents/pdf/Expert C Programming-Deep C Secrets.pdf
-File5[$e]=$HOME/Documents/code/c/unix/assginment2/rfind.c.pdf
-File6[$e]=$HOME/Documents/pdf/sicp.pdf
-File7[$e]=$HOME/Desktop/c++实验报告模板.pdf
+File1[$e]=$HOME/Documents/pdf/深入理解Linux内核(第三版).pdf
+File2[$e]=$HOME/Downloads/上帝掷骰子吗.mobi
+File3[$e]=$HOME/Downloads/Zi-Zhi-Bian-Cheng-Yu-Yan-Qian-Qiao-He-Mi-_-Liu-Zhuo-_-Xu-Qian-_-Wu-.mobi
+File4[$e]=$HOME/Documents/pdf/编译原理/自制编程语言.pdf
+File5[$e]=$HOME/Downloads/自制编程语言 (2).pdf
+File6[$e]=$HOME/Documents/pdf/text/Haskell趣学指南.pdf
+File7[$e]=$HOME/Downloads/easycpp.pdf
 File8[$e]=$HOME/Documents/pdf/text/sicp.pdf
-Name1[$e]=鸟哥的Linux私房菜—基础篇下.pdf
-Name2[$e]=深入理解Linux内核(第三版).pdf
-Name3[$e]=算法精解-C语言描述.pdf
-Name4[$e]=Expert C Programming-Deep C Secrets.pdf
-Name5[$e]=rfind.c.pdf
-Name6[$e]=sicp.pdf
-Name7[$e]=c++实验报告模板.pdf
+File9[$e]=/media/wang/DATA/temp/mastering-cmake.pdf
+Name1[$e]=深入理解Linux内核(第三版).pdf
+Name2[$e]=上帝掷骰子吗.mobi
+Name3[$e]=Zi-Zhi-Bian-Cheng-Yu-Yan-Qian-Qiao-He-Mi-_-Liu-Zhuo-_-Xu-Qian-_-Wu-.mobi
+Name4[$e]=自制编程语言.pdf
+Name5[$e]=自制编程语言 (2).pdf
+Name6[$e]=Haskell趣学指南.pdf
+Name7[$e]=easycpp.pdf
 Name8[$e]=sicp.pdf
+Name9[$e]=mastering-cmake.pdf

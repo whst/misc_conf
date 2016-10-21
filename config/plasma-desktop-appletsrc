@@ -12,6 +12,7 @@ JB-mission-control-jdk8=
 JB-policytool-jdk8=
 XX-Net=
 bpython=
+bpython3=2016-10-21
 chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default=
 chrome-ohmmkhmmmpcnpikjeljgnaoabkaalbgc-Default=
 debian-uxterm=
@@ -20,7 +21,10 @@ display-im6=
 display-im6.q16=
 eclipse=
 emacs24=
+emacs24-term=2016-10-21
+fcitx=2016-10-21
 fcitx-configtool=
+firefox-esr=
 geogebra=
 gimp=
 goagent-gtk=
@@ -82,17 +86,50 @@ libreoffice-math=
 libreoffice-startcenter=
 libreoffice-writer=
 mit-scheme=
+mutt=2016-10-21
 openjdk-7-policytool=
+openjdk-8-policytool=2016-10-21
+org.kde.Help=2016-10-21
+org.kde.akregator=2016-10-21
+org.kde.ark=2016-10-21
+org.kde.contactprintthemeeditor=2016-10-21
+org.kde.contactthemeeditor=2016-10-21
+org.kde.discover=2016-10-21
+org.kde.dolphin=2016-10-21
+org.kde.dragonplayer=2016-10-21
+org.kde.gwenview=2016-10-21
+org.kde.headerthemeeditor=2016-10-21
+org.kde.importwizard=2016-10-21
+org.kde.kaddressbook=2016-10-21
+org.kde.kate=2016-10-21
+org.kde.kcalc=2016-10-21
+org.kde.kinfocenter=2016-10-21
+org.kde.kmail=2016-10-21
+org.kde.knotes=2016-10-21
+org.kde.konsole=2016-10-21
+org.kde.korganizer=2016-10-21
+org.kde.ksysguard=2016-10-21
+org.kde.ktnef=2016-10-21
+org.kde.kwalletmanager5=2016-10-21
+org.kde.kwrite=2016-10-21
+org.kde.pimsettingexporter=2016-10-21
+org.kde.sieveeditor=2016-10-21
+org.kde.spectacle=2016-10-21
+prerex=
 qtcreator=
 redshift-gtk=2015-10-30
 reportbug=
 system-config-printer=
+systemsettings=2016-10-21
 terminator=
+texdoctk=2016-10-21
 vim=
 vlc=
 vmware-netcfg=
 vmware-player=
 vmware-workstation=
+vprerex=
+wxMaxima=2016-10-21
 wxmaxima=
 
 [Containments][1]
@@ -164,7 +201,7 @@ hideWhenSingleDesktop=true
 Order=3
 
 [Containments][1][Applets][5]
-geometry=124,2,996,24
+geometry=124,2,940,24
 immutability=2
 plugin=tasks
 zvalue=0
@@ -190,7 +227,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=4
 
 [Containments][1][Applets][6]
-geometry=1124,2,162,24
+geometry=1068,2,218,24
 immutability=2
 plugin=systemtray
 zvalue=0
@@ -221,7 +258,7 @@ plugin=org.kde.notifications
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][12][PopupApplet]
-DialogHeight=92
+DialogHeight=88
 DialogWidth=408
 
 [Containments][1][Applets][6][Configuration][Applets][13]
@@ -231,7 +268,7 @@ plugin=battery
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][13][PopupApplet]
-DialogHeight=268
+DialogHeight=286
 DialogWidth=296
 
 [Containments][1][Applets][6][Configuration][Applets][8]
@@ -330,7 +367,7 @@ activity=Desktop
 activityId=1d13afef-a34c-4266-9b4d-2b1fa1ba738d
 desktop=-1
 formfactor=0
-geometry=0,924,1440,900
+geometry=0,924,1920,1080
 immutability=1
 lastDesktop=-1
 lastScreen=1
@@ -338,7 +375,7 @@ location=0
 plugin=desktop
 screen=-1
 wallpaperplugin=image
-wallpaperpluginmode=Slideshow
+wallpaperpluginmode=SingleImage
 zvalue=0
 
 [Containments][25][ToolBox]
@@ -347,9 +384,9 @@ offset=0
 
 [Containments][25][Wallpaper][image]
 slideTimer=910
-slidepaths=/home/wang/Pictures/MBuntu-Wallpapers
-userswallpapers=
-wallpaper=/usr/share/wallpapers/Elarun
+slidepaths=
+userswallpapers=/home/wang/Pictures/MBuntu-Wallpapers/Hawaiian Print.jpg
+wallpaper=/home/wang/Pictures/MBuntu-Wallpapers/Hawaiian Print.jpg
 wallpapercolor=0,0,0
 wallpaperposition=0
 
@@ -359,7 +396,7 @@ activity=Blank
 activityId=99cfd649-fafa-40ac-8507-a4e5c7701140
 desktop=-1
 formfactor=0
-geometry=1446,924,1920,1080
+geometry=1926,924,1920,1080
 immutability=1
 lastDesktop=-1
 lastScreen=1
@@ -367,7 +404,7 @@ location=0
 plugin=desktop
 screen=1
 wallpaperplugin=image
-wallpaperpluginmode=SingleImage
+wallpaperpluginmode=Slideshow
 zvalue=0
 
 [Containments][26][ToolBox]
@@ -375,8 +412,8 @@ corner=1
 offset=0
 
 [Containments][26][Wallpaper][image]
-slideTimer=10
-slidepaths=
+slideTimer=900
+slidepaths=/home/wang/Pictures/MBuntu-Wallpapers
 userswallpapers=
 wallpaper=/usr/share/wallpapers/Elarun
 wallpapercolor=0,0,0
@@ -396,7 +433,7 @@ location=0
 plugin=desktop
 screen=-1
 wallpaperplugin=image
-wallpaperpluginmode=Slideshow
+wallpaperpluginmode=SingleImage
 zvalue=0
 
 [Containments][8][Applets][15]
@@ -451,9 +488,9 @@ offset=0
 
 [Containments][8][Wallpaper][image]
 slideTimer=900
-slidepaths=/usr/share/wallpapers/,/home/wang/.kde/share/wallpapers/,/home/wang/Pictures/MBuntu-Wallpapers
-userswallpapers=/home/wang/Pictures/gnuEmacsRef.png
-wallpaper=/home/wang/Pictures/gnuEmacsRef.png
+slidepaths=
+userswallpapers=/home/wang/Pictures/gnuEmacsRef.png,/home/wang/Pictures/MBuntu-Wallpapers/Grass Blades.jpg,/home/wang/Pictures/MBuntu-Wallpapers/Hawaiian Print.jpg
+wallpaper=/home/wang/Pictures/MBuntu-Wallpapers/Hawaiian Print.jpg
 wallpapercolor=0,0,0
 wallpaperposition=2
 

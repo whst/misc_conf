@@ -67,6 +67,9 @@ InfoOutput=2
 [juk]
 InfoOutput=4
 
+[kaccessibleapp]
+InfoOutput=4
+
 [kaddressbookmigrator]
 InfoOutput=4
 
@@ -130,6 +133,9 @@ InfoOutput=4
 [kio_help]
 InfoOutput=4
 
+[kio_help4]
+InfoOutput=2
+
 [kio_thumbnail]
 InfoOutput=2
 
@@ -143,6 +149,9 @@ InfoOutput=4
 InfoOutput=2
 
 [kmail2]
+InfoOutput=4
+
+[kmix]
 InfoOutput=4
 
 [kmousetool]

@@ -9,10 +9,12 @@ Height 768=400
 Width 1366=700
 
 [KFileDialog Settings]
-Height 768=420
-Recent Files[$e]=gnuEmacsRef.png,$HOME/Pictures/gnuEmacsRef.png
-Recent URLs[$e]=$HOME/Pictures/,$HOME/Public/
-Width 1366=774
+Height 1080=420
+Height 768=722
+Recent Files[$e]=gnuEmacsRef.png,$HOME/Pictures/MBuntu-Wallpapers/Hawaiian Print.jpg,$HOME/Pictures/MBuntu-Wallpapers/Grass Blades.jpg,$HOME/Pictures/gnuEmacsRef.png
+Recent URLs[$e]=$HOME/Pictures/,$HOME/Public/,$HOME/Pictures/MBuntu-Wallpapers/
+Width 1366=1366
+Width 1920=683
 
 [KPropertiesDialog]
 Height 768=364
@@ -35,10 +37,10 @@ offset=0
 size=1366,26
 
 [PlasmaViews][1][Sizes][Horizontal1440]
-max=1440,26
-min=1440,26
+max=-1,-1
+min=-1,-1
 offset=0
-size=1440,26
+size=1366,26
 
 [PlasmaViews][1][Sizes][Horizontal1920]
 max=1920,26

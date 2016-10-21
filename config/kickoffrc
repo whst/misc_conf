@@ -8,4 +8,4 @@ loadAll=false
 pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
 
 [RecentlyUsed]
-Applications=kde4-ksnapshot.desktop,kde4-okular.desktop,iceweasel.desktop,vmware-workstation.desktop,kde4-systemsettings.desktop
+Applications=vmware-workstation.desktop,kde4-ksnapshot.desktop,iceweasel.desktop,terminator.desktop,XX-Net.desktop

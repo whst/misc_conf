@@ -1,19 +1,24 @@
 updateInfoAdded=true
 
 [devicepreference.upd]
-ctime=1440001616
+ctime=1477010402
 done=DevicesMovedToPlatformPlugin,DevicesUIDsChanged
-mtime=1412927230
+mtime=1470122454
+
+[disable_kmix.upd]
+ctime=1477014547
+done=PlasmaVolume_DisableKMixAutostart
+mtime=1475148807
 
 [drkonqi-rename-config-section.upd]
-ctime=1440001616
+ctime=1477010402
 done=kde-4.11
-mtime=1412927230
+mtime=1470122454
 
 [grantleetheme.upd]
-ctime=1440001616
+ctime=1477014323
 done=initial-grantlee-theme-migration
-mtime=1410470600
+mtime=1435254458
 
 [kate-2.4.upd]
 ctime=1440001616
@@ -26,29 +31,29 @@ done=KDE_3_2_0,KDE_4_3_0
 mtime=1405604122
 
 [kcookiescfg.upd]
-ctime=1440001616
+ctime=1477014296
 done=kde2.2/b1,kde3.1/cvs,kde4.10/git
-mtime=1412880029
+mtime=1471356241
 
 [kded.upd]
-ctime=1440001616
+ctime=1477014296
 done=kde3.0
-mtime=1412880029
+mtime=1471356241
 
 [kdeui.upd]
-ctime=1440001616
+ctime=1477014391
 done=kde4/migrate_from_kde3_icon_theme
-mtime=1422389628
+mtime=1471541721
 
 [kio_help.upd]
-ctime=1440001616
+ctime=1477014298
 done=kde3_2
-mtime=1412880029
+mtime=1471356241
 
 [kioslave.upd]
-ctime=1440001616
+ctime=1477014296
 done=kde2.2/r2,kde2.2/r3
-mtime=1412880029
+mtime=1471356241
 
 [klipper-kconfigxt.upd]
 ctime=1440001616
@@ -71,58 +76,58 @@ done=2.11.0-remove-background-mode
 mtime=1412861948
 
 [kopete-account-kconf_update.upd]
-ctime=1440001616
+ctime=1477014541
 done=kopete0.7/r1,kopete0.10/r1
-mtime=1409953251
+mtime=1464709242
 
 [kopete-gaim_to_pidgin_style.upd]
-ctime=1440001616
+ctime=1477014541
 done=kopete0.70.85/r1
-mtime=1409953251
+mtime=1464709242
 
 [kopete-initialstatus.upd]
-ctime=1440001616
+ctime=1477014541
 done=kopete0.60.80/r1
-mtime=1409953251
+mtime=1464709242
 
 [kopete-jabberpriorityaddition-kconf_update.upd]
-ctime=1440001616
+ctime=1477014541
 done=kopete0.9/r1
-mtime=1409953251
+mtime=1464709242
 
 [kopete-jabberproxytype-kconf_update.upd]
-ctime=1440001616
+ctime=1477014541
 done=kopete0.9/r1
-mtime=1409953251
+mtime=1464709242
 
 [kopete-nameTracking.upd]
-ctime=1440001616
-mtime=1409953251
+ctime=1477014541
+mtime=1464709242
 
 [kopete-pluginloader.upd]
-ctime=1440001616
+ctime=1477014541
 done=kopete0.7/r1
-mtime=1409953251
+mtime=1464709242
 
 [kopete-pluginloader2.upd]
-ctime=1440001616
+ctime=1477014541
 done=kopete0.8/r1
-mtime=1409953251
+mtime=1464709242
 
 [kopete-update_icq_server.upd]
-ctime=1440001616
+ctime=1477014541
 done=kopete-update-icq-server/r1
-mtime=1409953251
+mtime=1464709242
 
 [kopete-update_icq_ssl.upd]
-ctime=1440001616
+ctime=1477014541
 done=kopete-update-icq-ssl/r1
-mtime=1409953251
+mtime=1464709242
 
 [kopete-update_yahoo_server.upd]
-ctime=1440001616
+ctime=1477014541
 done=kopete-update-yahoo-server/r1
-mtime=1409953251
+mtime=1464709242
 
 [korganizer.upd]
 ctime=1440001616
@@ -130,9 +135,9 @@ done=korganizer_3.4_GroupwareCleanup,korganizer_3.4_WebExport,korganizer_3.4_Fil
 mtime=1410470600
 
 [kpgp.upd]
-ctime=1440001616
+ctime=1477014382
 done=preKDE3_a,3.1-1
-mtime=1410470600
+mtime=1435254458
 
 [krdb_libpathwipe.upd]
 ctime=1440001616
@@ -150,19 +155,19 @@ done=kde4.10,kde4.10-remove-group-kscreenlocker
 mtime=1412927243
 
 [ksslcertificatemanager.upd]
-ctime=1440001616
+ctime=1477014296
 done=kde4.2
-mtime=1412880029
+mtime=1471356241
 
 [kuriikwsfilter.upd]
-ctime=1440001616
+ctime=1477010402
 done=post-kde3.1/cvs,pre-kde4.9
-mtime=1412927230
+mtime=1470122454
 
 [kwallet-4.13.upd]
-ctime=1440001616
+ctime=1477010402
 done=kde4.13
-mtime=1412927230
+mtime=1470122454
 
 [kwin_fsp_workarounds_1.upd]
 ctime=1440001616
@@ -220,9 +225,9 @@ done=initial-mailfilteragent-migration
 mtime=1410470600
 
 [mailtransports.upd]
-ctime=1440001616
+ctime=1477014427
 done=initial-kmail-migration,initial-knode-migration
-mtime=1412885383
+mtime=1435149794
 
 [newmailnotifier.upd]
 ctime=1440001616
@@ -240,9 +245,9 @@ done=4.10QmlNotifications
 mtime=1412927243
 
 [okular.upd]
-ctime=1440001616
+ctime=1477014546
 done=sep_settings
-mtime=1412883154
+mtime=1460578101
 
 [oxygen.upd]
 ctime=1440001616

@@ -159,3 +159,6 @@ hash -d PDF="$HOME/Documents/pdf"
 export JAVA_HOME=/usr/lib/jvm/java-8-oracle
 export PATH=$JAVA_HOME/bin:$PATH
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+# nvm
+export NVM_DIR="/home/wang/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm

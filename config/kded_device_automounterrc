@@ -27,6 +27,7 @@ LastNameSeen=Linux Mint
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda5]
+EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-harddisk
@@ -69,14 +70,15 @@ LastSeenMounted=false
 EverMounted=true
 Icon=drive-removable-media-usb
 LastNameSeen=Linux Mint
-LastSeenMounted=false
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb5]
+EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
 LastNameSeen=47.7 GiB 可卸载媒体
-LastSeenMounted=false
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb6]
 EverMounted=true
@@ -98,8 +100,8 @@ LastSeenMounted=true
 EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
-Icon=drive-harddisk
-LastNameSeen=系统保留
+Icon=drive-removable-media-usb
+LastNameSeen=TRANS
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
@@ -111,18 +113,18 @@ LastSeenMounted=false
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc4]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=Linux Mint
-LastSeenMounted=true
+LastNameSeen=J_CCSA_X64F
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc5]
-Icon=drive-harddisk
-LastNameSeen=APPS
+Icon=drive-removable-media-usb
+LastNameSeen=47.7 GiB 可卸载媒体
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc6]
 EverMounted=true
-Icon=drive-harddisk
-LastNameSeen=DATA
+Icon=drive-removable-media-usb
+LastNameSeen=30.4 GiB 可卸载媒体
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc7]
@@ -145,8 +147,8 @@ LastSeenMounted=false
 [Devices][/org/freedesktop/UDisks2/block_devices/sdd4]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=Debian 8.3.0 amd64 1
-LastSeenMounted=false
+LastNameSeen=Linux Mint
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sde1]
 EverMounted=true
@@ -157,7 +159,7 @@ LastSeenMounted=false
 [Devices][/org/freedesktop/UDisks2/block_devices/sr0]
 EverMounted=true
 Icon=media-optical-data
-LastNameSeen=新编大学德语第二版学生用书1
+LastNameSeen=我的光盘
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sr1]

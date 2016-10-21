@@ -13,26 +13,26 @@ Width 1440=1441
 Width 1920=1921
 
 [Recent Files]
-File1[$e]=/media/wang/DATA/picture/photos/hitotachi/IMG20140926072221.jpg
-File10[$e]=$HOME/Pictures/shot/simp_path.png
-File2[$e]=/media/wang/DATA/picture/photos/hitotachi/IMG20140915101003.jpg
-File3[$e]=/media/wang/DATA/picture/photos/hitotachi/IMG20140828122551.jpg
-File4[$e]=/media/wang/DATA/picture/photos/hitotachi/black_and_white.jpg
-File5[$e]=/media/wang/DATA/picture/photos/hitotachi/IMG20140805085328.jpg
-File6[$e]=trash:/0-IMG20140929094219.jpg
-File7[$e]=trash:/0-IMG20141018201724.jpg
-File8[$e]=trash:/0-IMG20150312172940.jpg
-File9[$e]=trash:/0-gifpal-20141017181543.gif
-Name1[$e]=IMG20140926072221.jpg
-Name10[$e]=simp_path.png
-Name2[$e]=IMG20140915101003.jpg
-Name3[$e]=IMG20140828122551.jpg
-Name4[$e]=black_and_white.jpg
-Name5[$e]=IMG20140805085328.jpg
-Name6[$e]=0-IMG20140929094219.jpg
-Name7[$e]=0-IMG20141018201724.jpg
-Name8[$e]=0-IMG20150312172940.jpg
-Name9[$e]=0-gifpal-20141017181543.gif
+File1[$e]=$HOME/Pictures/MBuntu-Wallpapers/mbuntu (2).jpg
+File10[$e]=/media/wang/DATA/temp/QQ截图20160830085548.png
+File2[$e]=$HOME/Pictures/MBuntu-Wallpapers/mbuntu (1).png
+File3[$e]=$HOME/Pictures/MBuntu-Wallpapers/mbuntu (1).jpg
+File4[$e]=$HOME/Pictures/MBuntu-Wallpapers/Lion.jpg
+File5[$e]=$HOME/Pictures/MBuntu-Wallpapers/Lake.jpg
+File6[$e]=$HOME/Pictures/MBuntu-Wallpapers/Isles.jpg
+File7[$e]=$HOME/Pictures/MBuntu-Wallpapers/Hawaiian Print.jpg
+File8[$e]=$HOME/Pictures/MBuntu-Wallpapers/Grass Blades.jpg
+File9[$e]=$HOME/Pictures/shot/001.png
+Name1[$e]=mbuntu (2).jpg
+Name10[$e]=QQ截图20160830085548.png
+Name2[$e]=mbuntu (1).png
+Name3[$e]=mbuntu (1).jpg
+Name4[$e]=Lion.jpg
+Name5[$e]=Lake.jpg
+Name6[$e]=Isles.jpg
+Name7[$e]=Hawaiian Print.jpg
+Name8[$e]=Grass Blades.jpg
+Name9[$e]=001.png
 
 [SideBar-BrowseMode]
 IsVisible=true
